@@ -20,9 +20,9 @@
 
 ## Скриншоты
 
-![Screenshot](https://github.com/BroFox86/ss2-rus/raw/master/picture-01.jpg)
-![Screenshot](https://github.com/BroFox86/ss2-rus/raw/master/picture-02.jpg)
-![Screenshot](https://github.com/BroFox86/ss2-rus/raw/master/picture-03.jpg)
+![Screenshot](https://github.com/BroFox86/ss2-rus/raw/master/screenshots/gui.jpg)
+![Screenshot](https://github.com/BroFox86/ss2-rus/raw/master/screenshots/records.jpg)
+![Screenshot](https://github.com/BroFox86/ss2-rus/raw/master/screenshots/map.jpg)
 
 ## Установка 
 

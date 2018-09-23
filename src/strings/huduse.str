@@ -135,3 +135,71 @@ Transmitter_Tower_Off:"Активация башни передатчика"
 
 weapon_trainer:"Доступ к устройству апгрейда оружия"   
 //"Access Weapons Upgrade Unit"
+
+
+////////////////////////////////////////////////////////////////////////////////
+//  For SCP mod                                                               
+////////////////////////////////////////////////////////////////////////////////
+
+Art:"Изображение велосипеда"
+//"Cycle picture"
+
+Big_Orange_Button:"Открыть двери"
+//"Open doors"
+
+Body_bag:"Обыскать мешок для трупа"
+//"Search body bag"
+
+BotDebris:"Обыскать обломки"
+//"Search debris"
+
+Bulk_On_Button:"Активировать переборку"
+//"Activate bulkhead"
+
+Crate:"Обыскать ящик"
+//"Search crate"
+
+DeadTurret:"Обыскать турель"
+//"Search turret"
+
+Desk:"Обыскать стол"
+//"Search desk"
+
+Egg:"Обыскать яйцо"
+//"Search egg"
+
+Faucet:"Использовать кран"
+//"Use faucet"
+
+Locker:"Обыскать шкафчик"
+//"Search locker"
+
+Master_Elevator_Button:"Использовать лифт"
+//"Use elevator"
+
+Nav_Marker:"Убрать метку"
+//"Remove marker"
+
+RepBase:"Использовать репликатор"
+//"Use replicator"
+
+Res_Station_Button:"Использовать образец"
+//"Use sampler"
+
+Shower:"Использовать смеситель"
+//"Use shower head"
+
+Slot_Machine:"Играть в автомат"
+//"Play slot machine"
+
+Toilet:"Смыть унитаз"
+//"Flush toilet"
+
+Tram_Call:"Вызвать поезд"
+//"Call tram"
+
+Turrets:"Взломать турель"
+//"Hack turret"
+
+Waste_Barrel:"Обыскать контейнер"
+//"Search waste container"

@@ -1398,3 +1398,163 @@ Wrench:"Очень крепкий разводной ключ."
 
 XerxesScreen:"Ксеркс."  
 //"Xerxes."
+
+////////////////////////////////////////////////////////////////////////////////
+//  For SCP mod                                                               
+////////////////////////////////////////////////////////////////////////////////
+
+Access_Panel:"Панель доступа." 
+//"An access panel"
+
+Active_Protocol_Box:"Ящик для транспортировки дроидов протокола." 
+//"A protocol droid shipping crate"
+
+Bar_Stool:"Барный стул."
+//"A bar stool"
+
+Big_Gray_Triop_Crate:"Большой ящик хранилища Три-Оптимум."
+//"A large TriOptimum storage crate"
+
+Brain_Part_1:"Кусок мозга пси-ривера."
+//"A chunk of psi reaver brain"
+
+Brain_Part_2:"Кусок мозга пси-ривера."
+//"A chunk of psi reaver brain"
+
+Brain_Part_3:"Кусок мозга пси-ривера."
+//"A chunk of psi reaver brain"
+
+Broken_Camera:"Уничтоженная камера безопасности." 
+//"A destroyed security camera"
+
+Broken_Chair:"Сломанный стул." 
+//"A broken chair"
+
+Broken_Railing:"Сломанное ограждение."
+//"A broken railing"
+
+Bronson:"Бронсон, сержант Мелани."
+//"Bronson, Sgt. Melanie"
+
+Cathouse_Bed:"Кровать стимуляции плотских чувств."
+//"A sensual stimulation bed"
+
+Chair_p1:"Стул." 
+//"A chair"
+
+Chair_p3:"Стул." 
+//"A chair"
+
+Cigarette_Butt:"Прикуриватель." 
+//"A cigarette butt"
+
+Crate_p2:"Транспортный контейнер."
+//"A shipping container"
+
+CrewComp1:"Компьютер доступа к шкафу безопасности."
+//"A security closet access computer"
+
+Cup_with_Liquid:"Пролитый напиток." 
+//"A spilled beverage"
+
+Delacroix:"Делакруа, д-р. Мария"
+//"Delacroix, Dr. Marie St. Anne"
+
+Diego:"Диего, капитан Уильям Б."
+//"Diego, Captain William B"
+
+Dripping_Goo:"Капающая слизь." 
+//"A dripping goo"
+
+FakeEXP_Cookies:"Текущие кибер-модули." 
+//"Current cyber modules"
+
+Faucet:"Кран." 
+//"A faucet"
+
+Gr_Over:"Большая проекция пси-ривера."
+//"A greater psi reaver projection"
+
+Gr_Over_Brain:"Большая мозговая структура пси-ривера."
+//"A greater psi reaver brain structure"
+
+Ladder:"Лестница." 
+//"A ladder"
+
+Long_Crate:"Длинный ящик хранения Три-Оптимум."
+//"A long TriOptimum storage crate"
+
+Mall_Signs:"Знак торгового центра." 
+//"A mall sign"
+
+Muscle_1:"Мышца." 
+//"A muscle"
+
+Nav_Marker:"Навигационный маркер." 
+//"A navigation marker"
+
+Nerve:"Нерв." 
+//"A nerve"
+
+Organ_2:"Вентиль высокого давления." 
+//"A high pressure vent"
+
+Overlord_Parts:"Часть проекции пси-ривера."
+//"A piece of a psi reaver projection"
+
+Payphone:"Таксофон." 
+//"A payphone"
+
+Polito:"Полито, д-р. Джэнис."
+//"Polito, Dr. Janice"
+
+Potted_Plant_Bed:"Горшечное растение." 
+//"A potted plant bed"
+
+ProtocolDebris:"Роботизированные обломки." 
+//"Some robotic debris"
+
+Range_Target:"Мишень стрельбища."
+//"A shooting range target"
+
+Rick_Turret_Corpse:"Уничтоженная турель." 
+//"A destroyed turret"
+
+Sanger:"Сэнгер, Констанс."
+//"Sanger, Constance"
+
+Shell_Casing:"Пустая гильза." 
+//"A spent bullet casing"
+
+Shotgun:"Дробовик (%s)." 
+//"A shotgun (%s)"
+
+Shovel:"Лопата" 
+//"A shovel"
+
+Small_Gray_Triop_Crate:"Средний ящик хранения Три-Оптимум."
+//"A medium TriOptimum storage crate"
+
+TalonDroid:"Дройд Тэлона."
+//"A Talon droid"
+
+Toilet:"Туалет." 
+//"A toilet" 
+
+Toilet_Corpse:"Сломанный туалет." 
+//"A broken toilet"
+
+Tram_Call:"Кнопка вызова поезда." 
+//"An automatic tram call button"
+
+UNN_Crate:"Упаковочный ящик UNN."
+//"A UNN packing crate"
+
+Vein:"Вена." 
+//"A vein"
+
+Vent_Fan:"Воздухоотводчик." 
+//"An air vent"
+
+Watts:"Уоттс, д-р. Джеймс Р."
+//"Watts, Dr. James R"

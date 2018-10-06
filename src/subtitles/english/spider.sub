@@ -1,0 +1,27 @@
+SUB1
+
+{
+	type "nonverbal"
+	descr "Паук"
+	// all sp1at0: AT_AT0 (atlevelzero, atlevelone, atleveltwo)
+	sub sp1at0_1 { text "[хрипит]" }
+	sub sp1at0_2 { text "[хрипит]" }
+	sub sp1at0_3 { text "[хрипит]" }
+	sub sp1at0_4 { text "[хрипит]" }
+	sub sp1at3_1 { text "[ведёт поиск]" } // AI_TO3, AI_AT3
+	sub sp1at3_2 { text "[ведёт поиск]" } // AI_TO3, AI_AT3
+	sub sp1at3_3 { text "[ведёт поиск]" } // AI_TO3, AI_AT3
+	sub sp1att_1 { text "[атакует]" } // AI_ATT
+	sub sp1att_2 { text "[атакует]" } // AI_ATT
+	sub sp1att_3 { text "[атакует]" } // AI_ATT
+	sub sp1att_4 { text "[атакует]" } // AI_ATT
+	sub sp1die_1 { text "[издаёт предсмертный крик]" } // AI_DIE
+	sub sp1die_2 { text "[издаёт предсмертный крик]" } // AI_DIE
+	sub sp1hhi_1 { text "[вскрикивает]" } // AI_HHI
+	sub sp1hhi_2 { text "[вскрикивает]" } // AI_HHI
+	sub sp1hhi_3 { text "[вскрикивает]" } // AI_HHI
+	sub sp1hhi_4 { text "[вскрикивает]" } // AI_HHI
+	sub sp1hhi_5 { text "[вскрикивает]" } // AI_HHI
+	sub sp1to1_1 { text "[встревожен]" } // AI_TO1 (tolevelone, twoleveltwo)
+	sub sp1to1_2 { text "[встревожен]" } // AI_TO1 (tolevelone, twoleveltwo)
+}

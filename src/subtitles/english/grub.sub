@@ -1,0 +1,65 @@
+SUB1
+
+{
+	type "nonverbal"
+	descr "Яйцо"
+	sub eggdie_1 { text "[разбито]" }
+	sub eggdie_2 { text "[разбито]" }
+//	sub egglp1 { text "[active]" } // ambient loop
+//	sub egglp2 { text "[active]" } // ambient loop
+//	sub egglp3 { text "[active]" } // ambient loop
+	sub eggopen1 { text "[открывается]" }
+	sub eggopen2 { text "[открывается]" }
+}
+
+{
+	type "nonverbal"
+	descr "Червь"
+	sub gr1at0_1 { text "[ожидает]" } // AI_AT0
+	sub gr1at0_2 { text "[ожидает]" } // AI_AT0
+	sub gr1at0_3 { text "[ожидает]" } // AI_AT0
+	sub gr1at0_4 { text "[ожидает]" } // AI_AT0
+	sub gr1at0_5 { text "[ожидает]" } // AI_AT0
+	sub gr1at0_6 { text "[ожидает]" } // AI_AT0
+	// all gr1at2: AI_TO1 (tolevelone, toleveltwo), AI_AT2 (atleveltwo, atlevelthree)
+	sub gr1at2_1 { text "[ведёт поиск]" }
+	sub gr1at2_2 { text "[ведёт поиск]" }
+	sub gr1at2_3 { text "[ведёт поиск]" }
+	sub gr1at2_4 { text "[ведёт поиск]" }
+	sub gr1at2_5 { text "[ведёт поиск]" }
+	sub gr1at2_6 { text "[ведёт поиск]" }
+	sub gr1att_1 { text "[атакует]" } // AI_ATT
+	sub gr1att_2 { text "[атакует]" } // AI_ATT
+	sub gr1att_3 { text "[атакует]" } // AI_ATT
+	sub gr1att_4 { text "[атакует]" } // AI_ATT
+	sub gr1die_1 { text "[умирает]" }
+	sub gr1die_2 { text "[умирает]" }
+	sub gr1hhi_1 { text "[кричит]" } // AI_HHI, AI_ATT
+	sub gr1hhi_2 { text "[кричит]" } // AI_HHI, AI_ATT
+	sub gr1hhi_3 { text "[кричит]" } // AI_HHI, AI_ATT
+	sub gr1hhi_4 { text "[кричит]" } // AI_HHI, AI_ATT
+	sub gr1to3_1 { text "[встревожен]" } // AI_TO3
+	sub gr1to3_2 { text "[встревожен]" } // AI_TO3
+	sub gr1to3_3 { text "[встревожен]" } // AI_TO3
+	sub gr1to3_4 { text "[встревожен]" } // AI_TO3
+	sub gr1to3_5 { text "[встревожен]" } // AI_TO3
+//	sub grublp1 { text "[active]" } // ambient loop
+//	sub grublp2 { text "[active]" } // ambient loop
+//	sub grublp3 { text "[active]" } // ambient loop
+}
+
+{
+	type "nonverbal"
+	descr "Рой"
+	sub sw1at3_1 { text "[встревожен]" } // AI_TO3, AI_AT3
+	sub sw1at3_2 { text "[встревожен]" } // AI_TO3, AI_AT3
+	sub sw1at3_3 { text "[встревожен]" } // AI_TO3, AI_AT3
+	sub sw1die_1 { text "[умирает]" } // AI_DIE
+	sub sw1die_2 { text "[умирает]" } // AI_DIE
+	sub sw1die_3 { text "[умирает]" } // AI_DIE
+	sub sw1to1_1 { text "[ведёт поиск]" } // AI_TO1
+	sub sw1to1_2 { text "[ведёт поиск]" } // AI_TO1
+	sub sw1to1_3 { text "[ведёт поиск]" } // AI_TO1
+//	sub swarmlp1 { text "[active]" } // ambient loop
+//	sub swarmlp2 { text "[active]" } // ambient loop
+}

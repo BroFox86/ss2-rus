@@ -69,188 +69,87 @@ Pad1:"Требуется код доступа к шахте."
 pad2:"Требуется код доступа к малой оружейной."  
 //"Sub-Armory Code required."
 
+Post1:"Задание: Грузовой корабль UNN \"Гэлло\". Помощник оружейника\n(Приобретается: +2 силы)"
+//Post1:"Mission Posting: Ordnance Master's Mate\n(Gain: +2 Strength)"
 
-Post1:"Задание: Грузовой корабль UNN \"Гэлло\"
-Помощник оружейника
-(Приобретается: +2 силы)"
-//Post1:"Mission Posting: Ordnance Master's Mate
-(Gain: +2 Strength)"
+Post2:"Задание: Школа выживания на Ио. Тренинг на выживание\n(Приобретается: +2 выносливости)"
+//Post2:"Mission Posting: Survival Training\n(Gain: +2 Endurance)"
 
+Post3:"Задание: Орбитальная станция Гуадаканал. Тренинг в невесомости\n(Приобретается: +2 ловкости)"
+//Post3:"Mission Posting: Zero-G Training\n(Gain: +2 Agility)"
 
-Post10:"Задание: Корабль UNN \"Люсиль\"
-Управление кораблем
-(Приобретается: +1 взлома и +1 силы)"
-//Post10:"Mission Posting: Ship's Ops
-(Gain: +1 Hack and +1 Strength)"
+Post4:"Задание: Корабль UNN \"Антигуа\". Помощник артиллериста\n(Приобретается: +1 энергооружия и +1 кибернетики)"
+//Post4:"Mission Posting: Gunnery Mate\n(Gain: +1 Energy Weapons and +1 Cyber-Affinity)"
 
+Post5:"Задание: Астероид JM-432. Патруль на астероиде\n(Приобретается: +1 тяжелого оружия и +1 кибернетики)"
+//Post5:"Mission Posting: Asteroid Pickets\n(Gain: +1 Heavy Weapons and +1 Cyber-Affinity)"
 
-Post11:"Задание: Корабль UNN \"Люсиль\"
-Помощник инженера
-(Приобретается: +1 ремонта и +1 силы)"
-//Post11:"Mission Posting: Engineer's Mate
-(Gain: +1 Repair and +1 Strength)"
+Post6:"Задание: Порт МакАртур. Помощник на стрелковом полигоне\n(Приобретается: +2 стандартного оружия)"
+//Post6:"Mission Posting: Staff Assistant, Weapons Range\n(Gain: +2 Standard Weapons)"
 
+Post7:"Задание: Управление UNN. Почетный караул, военная полиция\n(Приобретается: +1 техобслуживания)"
+//Post7:"Mission Posting: Honor Guard, MP\n(Gain: +1 Maintenance)"
 
-Post12:"Задание: Корабль UNN \"Люсиль\"
-Военная полиция
-(Приобретается: +1 модификации и +1 силы)"
-//Post12:"Mission Posting: Military Police
-(Gain: +1 Modify and +1 Strength)"
+Post8:"Задание: Тренировочная станция Полидис. Подавление восстания\n(Приобретается: +1 модификации)"
+//Post8:"Mission Posting: Quash Rebellion\n(Gain: +1 Modify)"
 
+Post9:"Задание: Корабль UNN \"Антигуа\". Консультант по системам корабля\n(Приобретается: +1 ремонта)"
+//Post9:"Mission Posting: Ship's System Consultant\n(Gain: +1 Repair)"
 
-Post13:"Задание: Корабль UNN \"Карфэкс\"
-Помощник навигатора
-(Приобретается: +2 кибернетики)"
-//Post13:"Mission Posting: Navigator's Mate
-(Gain: +2 Cyber-Affinity)"
+Post10:"Задание: Корабль UNN \"Люсиль\". Управление кораблем\n(Приобретается: +1 взлома и +1 силы)"
+//Post10:"Mission Posting: Ship's Ops\n(Gain: +1 Hack and +1 Strength)"
 
+Post11:"Задание: Корабль UNN \"Люсиль\". Помощник инженера\n(Приобретается: +1 ремонта и +1 силы)"
+//Post11:"Mission Posting: Engineer's Mate\n(Gain: +1 Repair and +1 Strength)"
 
-Post14:"Задание: Корабль UNN \"Пирс\"
-Мастер-оружейник
-(Приобретается: +1 техобслуживания)"
-//Post14:"Mission Posting: Ordnance Master
-(Gain: +1 Maintenance)"
+Post12:"Задание: Корабль UNN \"Люсиль\". Военная полиция\n(Приобретается: +1 модификации и +1 силы)"
+//Post12:"Mission Posting: Military Police\n(Gain: +1 Modify and +1 Strength)"
 
+Post13:"Задание: Корабль UNN \"Карфэкс\". Помощник навигатора\n(Приобретается: +2 кибернетики)"
+//Post13:"Mission Posting: Navigator's Mate\n(Gain: +2 Cyber-Affinity)"
 
-Post15:"Задание: Школа тактического тренинга ЛаВерн
-(Приобретается: +2 стандартного оружия)"
-//Post15:"Mission Posting: Tactical Training School
-(Gain: +2 Standard Weapons)"
+Post14:"Задание: Корабль UNN \"Пирс\". Мастер-оружейник\n(Приобретается: +1 техобслуживания)"
+//Post14:"Mission Posting: Ordnance Master\n(Gain: +1 Maintenance)"
 
+Post15:"Задание: Школа тактического тренинга ЛаВерн\n(Приобретается: +2 стандартного оружия)"
+//Post15:"Mission Posting: Tactical Training School\n(Gain: +2 Standard Weapons)"
 
-Post16:"Задание: Исследовательская база \"Мария Кюри\"
-Лаборант
-(Приобретается: +1 исследования)"
-//Post16:"Mission Posting: Lab Assistant
-(Gain: +1 Research)"
+Post16:"Задание: Исследовательская база \"Мария Кюри\". Лаборант\n(Приобретается: +1 исследования)"
+//Post16:"Mission Posting: Lab Assistant\n(Gain: +1 Research)"
 
+Post17:"Задание: Школа выживания на Ио. Тренинг на выживание\n(Приобретается: +2 выносливости)"
+//Post17:"Mission Posting: Survival Training\n(Gain: +2 Endurance)"
 
-Post17:"Задание: Школа выживания на Ио
-Тренинг на выживание
-(Приобретается: +2 выносливости)"
-//Post17:"Mission Posting: Survival Training
-(Gain: +2 Endurance)"
+Post18:"Задание: Орбитальная станция Ямамото. Тренинг в невесомости\n(Приобретается: +2 ловкости)"
+//Post18:"Mission Posting: Zero-G Training\n(Gain: +2 Agility)"
 
+Post19:"Задание: Орб. станция Шао Линь, бункер ограничения сенс. инф-ции 925/NP5: Кибер-эмпатия\n(Приобретается: 2-й уровень пси-способностей, криокинез и психогенная кибернетика)"
+//Post19:"Mission Posting: Sens Dep Tank 925/NP5: Cyber Empathy\n(Gain: Second Tier Neural Capacity, Cryokinesis and Psychogenic Cyber-Affinity)"
 
-Post18:"Задание: Орбитальная станция Ямамото
-Тренинг в невесомости
-(Приобретается: +2 ловкости)"
-//Post18:"Mission Posting: Zero-G Training
-(Gain: +2 Agility)"
+Post20:"Задание: Орб. станция Ру Нанг, бункер ограничения сенс. инф-ции 437/WH1: Кинетическая эмпатия\n(Приобретается: 2-й уровень пси-способностей, криокинез и пси-притяжение)"
+//Post20:"Mission Posting: Sens Dep Tank 437/WH1: Kinetic Empathy\n(Gain: Second Tier Neural Capacity, Cryokinesis and Kinetic Redirection)"
 
+Post21:"Задание: Орб. станция Чу Лон, бункер ограничения сенс. инф-ции 003/MU5: Управление массой\n(Приобретается: 2-й уровень пси-способностей, криокинез и пси-рефлективный экран)"
+//Post21:"Mission Posting: Sens Dep Tank 003/MU5: Mass Alteration\n(Gain: Second Tier Neural Capacity, Cryokinesis and Psycho-Reflective Screen)"
 
-Post19:"Задание: Орб. станция Шао Линь, бункер ограничения сенс. инф-ции 925/NP5: Кибер-эмпатия
-(Приобретается: 2-й уровень пси-способностей, криокинез 
-и психогенная кибернетика)"
-//Post19:"Mission Posting: Sens Dep Tank 925/NP5: Cyber Empathy
-(Gain: Second Tier Neural Capacity, Cryokinesis and Psychogenic Cyber-Affinity)"
+Post22:"Задание: Центр OSA. Телепатическое вмешательство/Анализ следа памяти\n(Приобретается: +2 псионики)"
+//Post22:"Mission Posting: Telepathic Interrogation/Engramanalysis\n(Gain: +2 Psionic Ability)"
 
+Post23:"Задание: Орб. станция Ки Луан, экспериментальная лаборатория\n(Приобретается: +1 исследования)"
+//Post23:"Mission Posting: Experimental Lab, TOS Ki Luan\n(Gain: +1 Research)"
 
-Post2:"Задание: Школа выживания на Ио
-Тренинг на выживание
-(Приобретается: +2 выносливости)"
-//Post2:"Mission Posting: Survival Training
-(Gain: +2 Endurance)"
+Post24:"Задание: Школа выживания на Ио. Тактический псионный тренинг/Толстая кожа\n(Приобретается: +2 выносливости)"
+//Post24:"Mission Posting: Tactical Psionic Training/Deep Cover\n(Gain: +2 Endurance)"
 
-
-Post20:"Задание: Орб. станция Ру Нанг, бункер ограничения сенс. инф-ции 437/WH1: Кинетическая эмпатия
-(Приобретается: 2-й уровень пси-способностей, криокинез 
-и пси-притяжение)"
-//Post20:"Mission Posting: Sens Dep Tank 437/WH1: Kinetic Empathy
-(Gain: Second Tier Neural Capacity, Cryokinesis and Kinetic Redirection)"
-
-
-Post21:"Задание: Орб. станция Чу Лон, бункер ограничения сенс. инф-ции 003/MU5: Управление массой
-(Приобретается: 2-й уровень пси-способностей, криокинез 
-и пси-рефлективный экран)"
-//Post21:"Mission Posting: Sens Dep Tank 003/MU5: Mass Alteration
-(Gain: Second Tier Neural Capacity, Cryokinesis and Psycho-Reflective Screen)"
-
-
-Post22:"Задание: Центр OSA
-Телепатическое вмешательство/Анализ следа памяти
-(Приобретается: +2 псионики)"
-//Post22:"Mission Posting: Telepathic Interrogation/Engramanalysis
-(Gain: +2 Psionic Ability)"
-
-
-Post23:"Задание: Орб. станция Ки Луан, экспериментальная лаборатория 
-(Приобретается: +1 исследования)"
-//Post23:"Mission Posting: Experimental Lab, TOS Ki Luan
-(Gain: +1 Research)"
-
-
-Post24:"Задание: Школа выживания на Ио
-Тактический псионный тренинг/Толстая кожа
-(Приобретается: +2 выносливости)"
-//Post24:"Mission Posting: Tactical Psionic Training/Deep Cover
-(Gain: +2 Endurance)"
-
-
-Post25:"Задание: Центр OSA
-Полевые операции, антитеррор\n(Приобретается: +1 силы, +1 ловкости, +1 кибернетики \nи психогенная ловкость)"
+Post25:"Задание: Центр OSA. Полевые операции, антитеррор\n(Приобретается: +1 силы, +1 ловкости, +1 кибернетики \nи психогенная ловкость)"
 //Post25:"Mission Posting: Field Operations, Anti-Terrorism\n(Gain: +1 Strength, +1 Agility, +1 Cyber-Affinity,\n and Psychogenic Agility)"
 
-
-Post26:"Задание: Полевая база OSA
-Полев. операции, подбор группы\n(Приобретается: +1 силы, +1 ловкости, +1 кибернетики \nи нейро-рефлекторный амортизатор)"
+Post26:"Задание: Полевая база OSA. Полев. операции, подбор группы\n(Приобретается: +1 силы, +1 ловкости, +1 кибернетики \nи нейро-рефлекторный амортизатор)"
 //Post26:"Mission Posting: Field Operations, Selections Group\n(Gain: +1 Strength, +1 Agility, +1 Cyber-Affinity,\n and Neuro-Reflex Dampening)"
 
-
-Post27:"Задание: Полевая база OSA
-Полевые операции, Ио\n(Приобретается: +1 силы, +1 ловкости, +1 кибернетики \nи удаленное электронное вмешательство)"
+Post27:"Задание: Полевая база OSA. Полевые операции, Ио\n(Приобретается: +1 силы, +1 ловкости, +1 кибернетики \nи удаленное электронное вмешательство)"
 //Post27:"Mission Posting: Field Operations, Io\n(Gain: +1 Strength, +1 Agility, +1 Cyber-Affinity,\n and Remote Electron Tampering)"
 
-
-Post3:"Задание: Орбитальная станция Гуадаканал
-Тренинг в невесомости
-(Приобретается: +2 ловкости)"
-//Post3:"Mission Posting: Zero-G Training
-(Gain: +2 Agility)"
-
-
-Post4:"Задание: Корабль UNN \"Антигуа\"
-Помощник артиллериста
-(Приобретается: +1 энергооружия и +1 кибернетики)"
-//Post4:"Mission Posting: Gunnery Mate
-(Gain: +1 Energy Weapons and +1 Cyber-Affinity)"
-
-
-Post5:"Задание: Астероид JM-432
-Патруль на астероиде
-(Приобретается: +1 тяжелого оружия и +1 кибернетики)"
-//Post5:"Mission Posting: Asteroid Pickets
-(Gain: +1 Heavy Weapons and +1 Cyber-Affinity)"
-
-
-Post6:"Задание: Порт МакАртур
-Помощник на стрелковом полигоне
-(Приобретается: +2 стандартного оружия)"
-//Post6:"Mission Posting: Staff Assistant, Weapons Range
-(Gain: +2 Standard Weapons)"
-
-
-Post7:"Задание: Управление UNN
-Почетный караул, военная полиция
-(Приобретается: +1 техобслуживания)"
-//Post7:"Mission Posting: Honor Guard, MP
-(Gain: +1 Maintenance)"
-
-
-Post8:"Задание: Тренировочная станция Полидис
-Подавление восстания
-(Приобретается: +1 модификации)"
-//Post8:"Mission Posting: Quash Rebellion
-(Gain: +1 Modify)"
-
-
-Post9:"Задание: Корабль UNN \"Антигуа\"
-Консультант по системам корабля
-(Приобретается: +1 ремонта)"
-//Post9:"Mission Posting: Ship's System Consultant
-(Gain: +1 Repair)"
-
- 
 PowerOff:"Главное питание отключено."  
 //"Main Power Offline."
 
@@ -317,3 +216,21 @@ trip0201:"Большинство дверей открывается при приближении."
 Weap1:"Кибер-устройство апгрейда оружейных навыков"  
 //"Cybernetic Upgrade Unit for Weapon Skills"
 
+////////////////////////////////////////////////////////////////////////////////
+//  For SCP mod                                                               
+////////////////////////////////////////////////////////////////////////////////
+
+QBRbroken:"Превышена отказоустойчивость. Не в сети."
+//"Fault tolerance exceeded. Offline."
+
+RadLockdown:"Блокировка излучения. Доступ закрыт."
+//"Radiation lockdown. Access denied."
+
+SCPSecret:"Открыто секретное убежище SCP. Чумовое."
+//"SCP secret hideout discovered. Groovy."
+
+SCPExpert:"Экспертная техника"
+//"An expert techninja"
+
+VacLockdown:"Опасность декомпрессии. Доступ закрыт."
+//"Decompression hazard. Access denied."

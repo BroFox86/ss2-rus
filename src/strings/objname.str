@@ -124,7 +124,7 @@ Brain_Piece_3:"Останки Множества."
 Brain_Piece_4:"Останки Множества."  
 //"Remains of the Many."
 
-BrawnBoost:"Имплантант СверхСила(tm)."  
+BrawnBoost:"Имплант СверхСила(tm)."  
 //"A BrawnBoost(tm) implant."
 
 Breakable_Windows:"Окно." 
@@ -442,7 +442,7 @@ EMP_Grenade:"%d ЭМИ-гранат(ы)."
 EMP_Rifle:"Двухконтурная ЭМИ-винтовка. (%s)"  
 //"A Dual-Circuit EMP Rifle. (%s)"
 
-EndurBoost:"Имплантант СверхВыносливость(tm)."  
+EndurBoost:"Имплант СверхВыносливость(tm)."  
 //"An EndurBoost(tm) implant."
 
 Eng_Comp:"Компьютер инженерной коррекции."  
@@ -484,7 +484,7 @@ Escape_Button:"Кнопка запуска спасательной шлюпки."
 EXP_Cookies:"%d кибер-модулей."  
 //"%d cyber modules."
 
-ExperTech:"Имплантант ТехЭксперт(tm)."  
+ExperTech:"Имплант ТехЭксперт(tm)."  
 //"An ExperTech(tm) implant."
 
 Explode_Barrel:"Бочка со взрывчатым веществом."  
@@ -643,7 +643,7 @@ Keyboard:"Консоль."
 Keypad:"Цифровая панель."  
 //"A numeric keypad."
 
-LabAssistant:"Имплантант Лаборант(tm)."  
+LabAssistant:"Имплант Лаборант(tm)."  
 //"A LabAssistant(tm) implant."
 
 Ladder_16:"Лестница."  
@@ -1087,7 +1087,7 @@ Rumbler:"Рамблер."
 Rumbler_Organ:"Орган рамблера."  
 //"A Rumbler organ."
 
-RunFast:"Имплантант СверхСкорость(tm)."  
+RunFast:"Имплант СверхСкорость(tm)."  
 //"A RunFast(tm) implant."
 
 Salvo:"Готовые к залпу торпеды."  
@@ -1219,7 +1219,7 @@ Small_Worm_Beaker:"%d сгустков червей."
 SmallPump:"Небольшой насос."  
 //"A small pump."
 
-SmartBoost:"Имплантант СверхПси(tm)."  
+SmartBoost:"Имплант СверхПси(tm)."  
 //"A PsiBoost(tm) implant."
 
 Soda_Can:"Банка колы."  
@@ -1270,7 +1270,7 @@ Swarm_Organ:"Орган кокона роя."
 Swarmer:"Аннелидный рой."  
 //"An annelid swarm."
 
-SwiftBoost:"Имплантант СверхЛовкость(tm)."  
+SwiftBoost:"Имплант СверхЛовкость(tm)."  
 //"A SwiftBoost(tm) implant."
 
 SwineHunter_Cart:"Игровой картридж: Охотник на свиней."  
@@ -1306,7 +1306,7 @@ Torpedo:"Торпеда."
 Torpedo_Launch_Button:"Кнопка ручного запуска торпеды."  
 //"A torpedo manual launch button."
 
-ToughSkin:"Имплантант ТолстоКожа(tm)."  
+ToughSkin:"Имплант ТолстоКожа(tm)."  
 //"A ToughSkin(tm) implant."
 
 Toxin_Grenade:"%d разрыв-гранат(ы)."  
@@ -1378,19 +1378,19 @@ Worm_Launcher:"Червемет. (%s)"
 Worm_Skin:"Броня ЧервеКожа."  
 //"A WormSkin armor."
 
-WormBlend:"Имплантант ЧервеСмесь."  
+WormBlend:"Имплант ЧервеСмесь."  
 //"A WormBlend implant."
 
-WormBlood:"Имплантант Кровь Червя."  
+WormBlood:"Имплант Кровь Червя."  
 //"A WormBlood implant."
 
 WormGoo:"Кучка отвратительных червей."  
 //"A pile of disgusting worms."
 
-WormHeart:"Имплантант Сердце Червя."  
+WormHeart:"Имплант Сердце Червя."  
 //"A WormHeart implant."
 
-WormMind:"Имплантант Разум Червя."  
+WormMind:"Имплант Разум Червя."  
 //"A WormMind implant."
 
 Wrench:"Очень крепкий разводной ключ."  

@@ -364,7 +364,7 @@ WrenchUnused:"Оружие и так в хорошем состоянии."
 ChemUsed:"Химикат, используемый при исследовании."
 //"Chemical used in research."
 
-DoubleImplant:"Нельзя использовать 2 одинаковых имплантанта."
+DoubleImplant:"Нельзя использовать 2 одинаковых импланта."
 //"Cannot equip duplicate implants."
 
 ElevBlocked:"Ошибка!  Нет доступа к шахте!"
@@ -403,10 +403,10 @@ MouseHelpInv0:"Перетащи сюда оружие, чтобы использовать его."
 MouseHelpInv2:"Перетащи сюда броню, чтобы использовать ее."
 //"Drag armor here to equip."
 
-MouseHelpInv3:"Перетащи сюда имплантант, чтобы использовать его."
+MouseHelpInv3:"Перетащи сюда имплант, чтобы использовать его."
 //"Drag implant here to equip."
 
-MouseHelpInv4:"Перетащи сюда имплантант, чтобы использовать его."
+MouseHelpInv4:"Перетащи сюда имплант, чтобы использовать его."
 //"Drag implant here to equip."
 
 MouseHelpMaps:"Вызов дисплея карты."

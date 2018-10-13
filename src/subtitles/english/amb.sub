@@ -35,19 +35,3 @@ SUB1
 	sub grhelp3 { text "Помогите мне." }
 }
 
-{
-	type "nonverbal"
-	descr ""
-	sub baby1 { text "[ребёнок плачет]" }
-	sub baby2 { text "[ребёнок плачет]" }
-	sub classic { text "[классическая музыка]" }
-	sub screamf1 { text "[женский крик]" }
-	sub screamf2 { text "[женский крик]" }
-	sub screamf3 { text "[женский крик]" }
-	sub screamg1 { text "[женский крик]" }
-	sub screamm1 { text "[мужской крик]" }
-	sub screamm2 { text "[мужской крик]" }
-	sub screamm3 { text "[мужской крик]" }
-	sub toilet { text "[журчание унитаза]" }
-}
-

@@ -69,31 +69,3 @@ SUB1
 	sub pd1to3_4 { text "Вам нужно что-то определённое?" }
 	sub pd1to3_5 { text "Сэр, позвольте мне вам помочь." }
 }
-
-{
-	type "nonverbal"
-	descr "Дроид"
-	sub pd1at0_5 { text "[гудит]" }
-	sub pd1att1 { text "[приближается]" }
-	sub pd1att2 { text "[приближается]" }
-	sub pd1att3 { text "[приближается]" }
-	sub pd1att4 { text "[приближается]" }
-	sub pd1att5 { text "[приближается]" }
-	sub pd1att6 { text "[приближается]" }
-	sub pd1att7 { text "[приближается]" }
-	sub pd1die_1 { text "[уничтожен]" }
-	sub pd1die_2 { text "[уничтожен]" }
-	sub pd1hhi_5 { text "[повреждён]" }
-	sub pd1hlo_4 { text "[повреждён]" }
-	sub pd1hlo_5 { text "[повреждён]" }
-	sub pd1nz0 { text "[ожидает]" }
-	sub pd1nz1 { text "[ожидает]" }
-	sub pd1nz2 { text "[ожидает]" }
-	sub pd1nz3 { text "[ожидает]" }
-	sub pd1nz4 { text "[ожидает]" }
-	sub pd1nz5 { text "[ожидает]" }
-	sub pd1nz6 { text "[ожидает]" }
-	sub pd1nz7 { text "[ожидает]" }
-	sub pd1nz8 { text "[ожидает]" }
-	sub pd1nz9 { text "[ожидает]" }
-}

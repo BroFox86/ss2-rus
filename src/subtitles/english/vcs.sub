@@ -90,21 +90,6 @@ SUB1
 	}
 }
 
-// so much screaming
-{
-	type "nonverbal"
-	descr "„лен экипажа"
-	multisub cs0501 {
-		{ time 00 length 5500 text "[женский плач]" }
-		{ time 5500 length 5400 text "[крик]" }
-	}
-	sub cs0805 { text "[женский крик]" }
-	sub cs1102 { text "[женский плач]" }
-	sub cs1301 { text "[женщина напевает мелодию]" }
-	sub cs2501 { text "[женский крик]" }
-	sub cs2702 { text "[мужской крик]" }
-}
-
 // End of apparitions ===============================================================
 
 // MedSci deck Dr. Watts meeting

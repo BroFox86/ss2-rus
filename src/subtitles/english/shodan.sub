@@ -36,20 +36,3 @@ SUB1
 		{ time 3300 length 6700 text "Я так хочу уничтожить насекомое." }
 	}
 }
-
-{
-	type "nonverbal"
-	descr "SHODAN"
-	sub sh1laug1 { text "[смеётся]" }
-	sub sh1laug2 { text "[смеётся]" }
-	sub sh1laug3 { text "[смеётся]" }
-	sub sh1laug4 { text "[смеётся]" }
-	sub sh1laug5 { text "[смеётся]" }
-	sub sh2bab_1 { text "[ожидает]" }
-	sub sh2bab_2 { text "[ожидает]" }
-	sub sh2bab_4 { text "[ожидает]" }
-	sub sh2bab_5 { text "[ожидает]" }
-	sub sh2bab_6 { text "[ожидает]" }
-	sub sh2die_1 { text "[исчезает]" }
-	sub sh2die_2 { text "[исчезает]" }
-}

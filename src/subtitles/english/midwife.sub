@@ -63,28 +63,3 @@ SUB1
 	sub mw1to3_4 { text "Отойди от детей!" }
 	sub mw1to3_5 { text "Сейчас ты у меня кровью истекать будешь." }
 }
-
-{
-	type "nonverbal"
-	descr "Акушерка"
-	sub f_mwlas4 { text "[стреляет]" }
-	sub mw1at0_5 { text "[напевает]" }
-	sub mw1die_1 { text "[издаёт предсмертный крик]" }
-	sub mw1die_2 { text "[издаёт предсмертный крик]" }
-	sub mw1hhi_1 { text "[ворчит]" }
-	sub mw1hhi_2 { text "[ворчит]" }
-	sub mw1hhi_3 { text "[ворчит]" }
-	sub mw1hhi_4 { text "[ворчит]" }
-	sub mw1hhi_5 { text "[ворчит]" }
-	sub mw1hlo_1 { text "[вскрикивает]" }
-	sub mw1hlo_2 { text "[вскрикивает]" }
-	sub mw1hlo_3 { text "[вскрикивает]" }
-	sub mw1hlo_4 { text "[вскрикивает]" }
-	sub mwservo1 { text "[ожидает]" }
-	sub mwservo2 { text "[ожидает]" }
-	sub mwservo3 { text "[ожидает]" }
-	sub mwservo4 { text "[ожидает]" }
-	sub mwservo5 { text "[ожидает]" }
-	sub mwservo6 { text "[ожидает]" }
-	sub mwservo7 { text "[ожидает]" }
-}

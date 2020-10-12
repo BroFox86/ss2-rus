@@ -187,10 +187,11 @@ Recharges a single charged item or weapon.
 Recharge amount: 20% per point of PSI, up to the maximum allowed by your Maintenance skill."
 
 
-
-
+  
+// Исправлена ошибка. 
+// Подробнее: https://shodan.fandom.com/wiki/Localized_Pyrokinesis
 Psi15:"Локальный пирокинез
-Наносит урон всем существам в радиусе полутора метров.  Чем выше ПСИ, тем больше урон врагам.  Длится: 15 сек + 8 сек за ПСИ"
+Наносит урон всем существам в радиусе полутора метров.  Чем выше ПСИ, тем больше урон врагам.  Длится: 7 сек + 8 сек за ПСИ"
 
 // "Localized Pyrokinesis
 Damages all creatures within a five foot radius.  Higher PSI increases damage to enemies.

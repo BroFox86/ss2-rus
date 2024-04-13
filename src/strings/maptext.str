@@ -184,8 +184,8 @@ MapText_Ops2_2:"Каюты экипажа"
 MapText_Ops2_3:"Системная администрация"  
 //"Systems Administration"
 
-MapText_Ops2_4:"Ксеркс"  
-//"Xerxes Core"
+MapText_Ops2_4:"Холл"  
+//"Lobby"
 
 MapText_Ops2_5:"Каюты экипажа"  
 //"Crew's Quarters"
@@ -217,11 +217,11 @@ MapText_Ops3_6:"Столовая"
 MapText_Ops3_8:"Комната отдыха"  
 //"Lounge"
 
-MapText_Ops4_0:"Охрана"  
-//"Security"
+MapText_Ops4_0:"Охрана / Командный центр"  
+//"Security / Command Center"
 
-MapText_Ops4_1:"Охрана"  
-//"Security"
+MapText_Ops4_1:"Ведение допросов"  
+//"Interrogation"
 
 MapText_Ops4_2:"Гауптвахта"  
 //"Brig"
@@ -232,14 +232,14 @@ MapText_Ops4_3:"Энергетики"
 MapText_Ops4_4:"Энергетики"  
 //"Power Operations"
 
-MapText_Ops4_5:"Системщики"  
-//"Systems Operations"
+MapText_Ops4_5:"Операции с текучими средами"  
+//"Fluid Operations"
 
 MapText_Ops4_6:"Казармы"  
 //"Barracks"
 
-MapText_Ops4_7:"Охрана"  
-//"Security"
+MapText_Ops4_7:"Тир для стрельбы"  
+"Shooting Range"
 
 MapText_Rec1_0:"Верхние каюты экипажа"  
 //"Upper Crew Quarters"
@@ -294,3 +294,10 @@ MapText_Rec3_5:"Кинотеатр"
 
 MapText_Rec3_6:"Зона охраны"  
 //"Security Area"
+
+////////////////////////////////////////////////////////////////////////////////
+//  Strings for SCP mod                                                             
+////////////////////////////////////////////////////////////////////////////////
+
+MapText_Hydro2_1:"Исследование"
+//"Research"

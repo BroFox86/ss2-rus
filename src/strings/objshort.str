@@ -474,7 +474,7 @@ Monkey_Brain:"Мозг обезьяны"
 Monkey_Corpse:"Труп обезьяны"  
 //"Monkey corpse"
 
-Mtool:"Однораз. рем. инструмент"  
+Mtool:"Одноразовый ремонтный инструмент"  
 //"Disposable maintenance tool"
 
 Mug:"Кружка"  
@@ -770,3 +770,28 @@ WormMind:"Импл. Разум Червя"
 
 wrench:"Разводной ключ"  
 //"Wrench"
+
+////////////////////////////////////////////////////////////////////////////////
+//  Strings for SCP mod                                                             
+////////////////////////////////////////////////////////////////////////////////
+
+Crew_Cap:"Кепка экипажа"
+//"Crew cap"
+
+FakeCookie:"Кибер модули"
+//"Cyber modules"
+
+fakekeys:"Ключ-карты доступа"
+//"Access keycards"
+
+FakeNanites:"Наниты"
+//"Nanites"
+
+Logic_Probe:"Логический пробник"
+//"Logic probe"
+
+PDA_Soft:"Персональный цифровой ассистент"
+//"Personal digital assistant"
+
+Rick_Turret_Corpse:"Уничтоженная турель"
+//"Destroyed turret"

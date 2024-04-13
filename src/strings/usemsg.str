@@ -234,3 +234,24 @@ SCPExpert:"Экспертная техника"
 
 VacLockdown:"Опасность декомпрессии. Доступ закрыт."
 //"Decompression hazard. Access denied."
+
+MenuRec:Подача блюд приостановлена."
+//"Meal service suspended."
+
+SCPCircuitOn:"Цепь активирована."
+//"Circuit activated."
+
+SCPCircuitOff:"Киберпространственный терминал отключен."
+//"Cyberspace terminal disabled."
+
+SCPPass:"Разрешен проход за кулисы!"
+//"Backstage pass granted!"
+
+SCPShodanSec:"Заблокирован системой безопасности уровня ШОДАН."
+//"Blocked by SHODAN level security."
+
+SCPTour:"Добро пожаловать на экскурсию за кулисы!"
+//"Welcome to the backstage tour!"
+
+SCPPassUsed:"Использован пропуск за кулисы!"
+//"Backstage pass used!"

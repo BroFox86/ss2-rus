@@ -178,8 +178,8 @@ button:"Кнопка"
 Button_p2:"Кнопка"  
 //"A button"
 
-Can:"Банка"  
-//"A can"
+Can:"Банка газировки"
+//"A can of soda"
 
 Candy_Card:"Карта доступа к стим. блоку: Кэнди"  
 //"A Stim Unit access card: Candy"
@@ -730,8 +730,8 @@ Many_Boss_Brain:"Мозг Множества"
 Many_Peas:"Упаковка гороха"  
 //"A carton of peas"
 
-ManyCans:"Банки"  
-//"Several cans"
+ManyCans:"Банки с газировкой"  
+//"Several cans of soda"
 
 Marine_Poster:"Пропагандистский плакат"  
 //"A propaganda poster"
@@ -1396,8 +1396,8 @@ WormMind:"Имплант Разум Червя"
 Wrench:"Очень крепкий разводной ключ"  
 //"A very solid wrench"
 
-XerxesScreen:"Ксеркс"  
-//"Xerxes"
+XerxesScreen:"Экран Ксеркс"  
+//"A Xerxes screen"
 
 ////////////////////////////////////////////////////////////////////////////////
 //  Strings for SCP mod                                                             
@@ -1558,3 +1558,42 @@ Vent_Fan:"Воздухоотводчик"
 
 Watts:"Уоттс, д-р. Джеймс Р"
 //"Watts, Dr. James R"
+
+BrokenRobot:"Сломанный робот"
+//"A broken robot"
+
+Clone_Maid_Box: "Транспортировочный ящик для Клона Горничной (TM)"
+//"A Clone Maid(TM) shipping crate"
+
+Crew_Cap:"Кабина для экипажа Три-Оптимум"
+//"A TriOptimum crew cap"
+
+CyberspaceTerminal:"Терминал киберпространства" 
+//"A cyberspace terminal"
+
+Dinner_Plate:"Тарелка для ужина"
+//"A dinner plate"
+
+Frying_Pan:"Сковорода для жарки"
+//"A frying pan"
+
+Human_Carcass:"Человеческий труп"
+//"A human carcass"
+
+Logic_Probe:"Логический пробник"
+//"A logic probe"
+
+Mess_Hall_Table:"Стол в столовой"
+//"A mess hall table"
+
+Sauce_Pan:"Кастрюля для соуса"
+//"A sauce pan"
+
+Stock_Pot:"Кастрюля"
+//"A stock pot"
+
+Store_Counter:"Прилавок магазина"
+//"A store counter"
+
+Voodoo_Card:"Старинная печатная плата"
+//"An antique circuit card"

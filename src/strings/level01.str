@@ -137,12 +137,12 @@ EmailText9:"Теперь я могу уничтожить эту заразу, если пожелаю.  Множество дрожит
 
 LogName24:"ТРЕНЕР 06.ФЕВ.11\nТестовое сообщение\n"
 LogPortrait24:"Bayliss"
-LogIcon24:"RickIcon"
+LogIcon24:"RamsIcon"
 LogText24:"Это сообщение исходит из аудио-записи, которую ты подобрал.  В любой момент ты можешь использовать свой PDA, чтобы прослушать любую аудио-запись или полученное тобой электронное письмо.  В полевых условиях PDA используется также для записи текущих заданий и получения справочной информации.\n"
 
 //LogName24:"TRAINER 02.06.11\nre: Test message\n"
 //LogPortrait24:"Bayliss"
-//LogIcon24:"RickIcon"
+//LogIcon24:"RamsIcon"
 //LogText24:"This message is coming from the audio log you just picked up.  You can use your PDA at any time to play any audio-log or e-mail you've received.  In the field, the PDA is also used for keeping track of your current mission objectives and obtaining help information.\n"
 
 
@@ -189,12 +189,12 @@ LogText16:"Кому: Анатолию Коренчкину\nАнатолий, ты ДОЛЖЕН открыть планету для на
 
 
 LogName21:"МЭЛОУН 03.ИЮЛ.14\nШимпанзе-псионики!\n"
-LogPortrait21:"testport"
+LogPortrait21:"malone"
 LogIcon21:"RickIcon"
 LogText21:"Куда: В исследоват. центр Мак Пао\nЛаборант из МедНауки вчера позвал меня вниз, в помещение вивисекции.  Ему показалось, что подопытные обезьяны проявляют необычную разумность.  Я провел с одной из них четыре часа и пытался прозондировать ее пси-усилителем в режиме бета 4.  Результата не было.  Я решил, что это потому, что она не может реагировать на высокий четвертый режим.  Но затем я понял, что она намеренно блокирует зондирование!  Когда я поднял пси-усилитель, чтобы воздействовать на нее,  создание протянуло руки и направило на меня криокинетическое поле, парализовав мою руку.  Я немедленно ударил обезъяну пси-энергией, а затем применил электрошок.\n"
 
 //LogName21:"MALONE 03.JUL.14\nre: Psionic chimps!\n"
-//LogPortrait21:"testport"
+//LogPortrait21:"malone"
 //LogIcon21:"RickIcon"
 //LogText21:"To: Mak Pao research authority\nA laboratory worker from MedSci called me down to the vivisection room yesterday.  He felt the lab chimps were exhibiting uncommon intelligence.  I sat with one for four hours and tried to probe it with the psi amp on a beta 4 cycle.  It failed to respond.  I of course assumed it was because it was, naturally, incapable of reacting to the sophisticated beta 4 cycle.  But then I realized it was blocking the probe intentionally!  As soon as I raised the psi-amp to attack it, the creature lashed out with its arms and projected a cryokinetic field towards me, paralyzing my arm.  I immediately psi-dampened the monkey and then stunned it with an electric prod.\n"
 
@@ -291,12 +291,12 @@ LogText22:"Из-за странных событий, происходящих в последнее время, я приказала р
 
 
 LogName18:"МЭЛОУН 06.ИЮЛ.14\nДальнейшие опыты\n"
-LogPortrait18:"testport"
+LogPortrait18:"malone"
 LogIcon18:"RickIcon"
 LogText18:"Куда: В исследоват. центр Мак Пао\nСоблюдая все меры предосторожности, я приступил к дальнейшим экспериментам.  С тех пор, как мы достигли Тау Кита, создания становились умнее и каким-то образом даже приобрели пси-способности.  Я прозондировал еще одного объекта в режиме бета 5 и почувствовал много чего, но прежде всего, невероятную эмпатию.  Шимпанзе были в курсе своей собственной истории, знали о вивисекции и экспериментах, которые проводились над ними на борту \"Фон Брауна\".  Они были в гневе, и они показывали это.  Совершенно ясно, что они одновременно являются источником потрясающих научных исследований и невероятно большого риска.  Мои рекомендации... либо заморозить их в крио-хранилище на оставшуюся часть миссии, либо уничтожить немедленно.  Кто знает, какие еще способности у них могут появиться?\n"
 
 //LogName18:"MALONE 06.JUL.14\nre: Further experiments\n"
-//LogPortrait18:"testport"
+//LogPortrait18:"malone"
 //LogIcon18:"RickIcon"
 //LogText18:"To: Mak Pao research authority\nTaking precautions, I proceeded with further experiments.  Since we've reached Tau Ceti, the creatures have gotten smarter and somehow gained limited psi abilities.  I probed another subject with a beta 5 cycle and sensed many things, but mostly an incredible empathy.  The chimps have become acutely aware of their own history, of the vivisections and experiments that have been performed on them while on board the Von Braun.  They have anger, and they are ready to express it.  Clearly they are both a fascinating scientific resource and an incredible security risk.  My recommendation... either freeze them in cryo storage for the remainder of the mission or liquidate them immediately.  Who knows what other abilities they'll acquire?\n"
 

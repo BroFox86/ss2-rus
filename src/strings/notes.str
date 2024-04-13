@@ -174,37 +174,37 @@ NoteOrder_4_9:"408"
 
 
 Note_5_8:"Экзооружие на 2-м этаже в крыле экипажа. Код: 11111."
-NoteOrder_5_8:"501"
+NoteOrder_5_8:"505"
 //Note_5_8:"An exotic weapon is on Level 2 of the Crew Annex, code 11111."
 
 
 Note_5_6:"Код доступа к слу-\nжебному туннелю сада: 34093."
-NoteOrder_5_6:"502"
+NoteOrder_5_6:"506"
 //Note_5_6:"The code for the Garden maintenance tunnel is 34093."
 
 
 Note_5_5:"Рубильник освещ. баскет. площадки - рядом с бассейном."
-NoteOrder_5_5:"503"
+NoteOrder_5_5:"501"
 //Note_5_5:"A circuit breaker for the basketball court lights is near the pool."
 
 
 Note_5_4:"Запусти передатчик кодом, скрытым в арт-терминалах."
-NoteOrder_5_4:"504"
+NoteOrder_5_4:"503"
 //Note_5_4:"Activate Transmitter with code hidden in art terminals."
 
 
 Note_5_7:"Найди передатчик и включи его."
-NoteOrder_5_7:"505"
+NoteOrder_5_7:"504"
 //Note_5_7:"Find the Transmitter and activate it."
 
 
 Note_5_2:"Возвращайся на палубу управления."
-NoteOrder_5_2:"506"
+NoteOrder_5_2:"507"
 //Note_5_2:"Return to the Ops Deck."
 
 
 Note_5_3:"Отправляйся на командную палубу."
-NoteOrder_5_3:"507"
+NoteOrder_5_3:"508"
 //Note_5_3:"Go to the Command Deck."
 
 
@@ -323,28 +323,94 @@ NoteOrder_9_1:"901"
 ////////////////////////////////////////////////////////////////////////////////
 
 
-Note_5_10:"Найден код арт-терминала: [1."
+Note_2_4:"Код для Крио-А: 45100."
+NoteOrder_2_4:"203"
+//"The code for Cryo A is 45100."
+
+
+Note_5_9:"Код для передатчика: 14106."
+NoteOrder_5_9:"502"
+//"The code for the Transmitter is 14106."
+
+
+Note_5_10:"Найден код арт-терминала: [1"
 NoteOrder_5_10:"510"
-//Note_5_10:"Found art code: [1."
+//Note_5_10:"Found art code: [1"
 
 
-Note_5_11:"Найден код арт-терминала: 4."
+Note_5_11:"Найден код арт-терминала: 10"
 NoteOrder_5_11:"511"
-//Note_5_11:"Found art code: 4."
+//Note_5_11:"Found art code: 10"
 
-Note_5_12:"Найден код арт-терминала: 6]."
+
+Note_5_12:"Найден код арт-терминала: 4"
 NoteOrder_5_12:"512"
-//Note_5_12:"Found art code: 6]."
+//Note_5_12:"Found art code: 4"
 
 
-Note_5_13:"Найден код арт-терминала: 10."
+Note_5_13:"Найден код арт-терминала: 6]"
 NoteOrder_5_13:"513"
-//Note_5_13:"Found art code: 10."
+//Note_5_13:"Found art code: 6]"
 
 
-Note_5_14:"Код передатчика: 14106."
+Note_5_14:"Найден код арт-терминала: [1"
 NoteOrder_5_14:"514"
-//Note_5_14:"The code for the Transmitter is 14106."
+//Note_5_14:"Found art code: [1"
+
+
+Note_5_15:"Найден код арт-терминала: 10"
+NoteOrder_5_15:"515"
+//"Found art code: 10"
+
+
+Note_5_16:"Найден код арт-терминала: 4"
+NoteOrder_5_16:"516"
+//"Found art code: 4"
+
+
+Note_5_17:"Найден код арт-терминала: 6]"
+NoteOrder_5_17:"517"
+//"Found art code: 6]"
+
+
+Note_5_18:"Найден код арт-терминала: [1"
+NoteOrder_5_18:"518"
+//"Found art code: [1"
+
+
+Note_5_19:"Найден код арт-терминала: 10"
+NoteOrder_5_19:"519"
+//"Found art code: 10"
+
+
+Note_5_20:"Найден код арт-терминала: 4"
+NoteOrder_5_20:"520"
+//"Found art code: 4"
+
+
+Note_5_21:"Найден код арт-терминала: 6]"
+NoteOrder_5_21:"521"
+//"Found art code: 6]"
+
+
+Note_5_22:"Найден код арт-терминала: [1"
+NoteOrder_5_22:"522"
+//"Found art code: [1"
+
+
+Note_5_23:"Найден код арт-терминала: 10"
+NoteOrder_5_23:"523"
+//"Found art code: 10"
+
+
+Note_5_24:"Найден код арт-терминала: 4"
+NoteOrder_5_24:"524"
+//"Found art code: 4"
+
+
+Note_5_25:"Найден код арт-терминала: 6]"
+NoteOrder_5_25:"525"
+//"Found art code: 6]"
 
 
 Note_6_15:"Разберитесь с Коренчкиным на мосту."

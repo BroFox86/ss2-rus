@@ -115,8 +115,8 @@ HelpFreeRepair:"Перетащи на сломанный объект, чтобы починить его."
 HelpRecycler:"Перетащи на ненужный объект, чтобы превратить его в наниты."
 //"Drag to a junk object to convert it to nanites."
 
-HelpWrench:"Перетащи на изношенное оружие, чтобы улучшить его состояние."
-//"Drag to a degraded weapon to improve condition."
+HelpWrench:"Перетащи на поврежденное оружие или турель, чтобы улучшить состояние."
+//"Drag to a degraded weapon or turret to improve condition."
 
 HilightString:"%s пунктов из %s."
 //"%s pointed out by %s."
@@ -247,13 +247,13 @@ ServiceName2:"OSA"
 SkillZero:"Навык не получен."
 //"Skill not learned."
 
-station0:"Космическая станция Вэйк Айланд"
+Station0:"Космическая станция Вэйк Айланд"
 //"Space Station Wake Island"
 
-station1:"Космическая станция Чесапик Бэй"
+Station1:"Космическая станция Чесапик Бэй"
 //"Space Station Chesapeake Bay"
 
-station2:"Орбитальная станция Чан Лоу"
+Station2:"Орбитальная станция Чан Лоу"
 //"Orbital Station Chun Lo"
 
 StatName0:"СИЛ"
@@ -352,8 +352,8 @@ WpnSkill3:"Экзот."
 WrenchOnBroken:"Сначала отремонтируй оружие."
 //"Use Repair skill on weapon first."
 
-WrenchOnNonGun:"Для использования перетащи инструмент на стрелковое оружие."
-//"Drag tool to ranged weapon to use."
+WrenchOnNonGun:"Перетащи на поврежденное оружие или турель, чтобы улучшить состояние."
+//"Drag to a degraded weapon or turret to improve condition."
 
 WrenchSkillReq:"Техобслуживание этого оружия требует навыка %d."
 //"Maintaining this weapon requires a skill of %d."
@@ -534,3 +534,31 @@ Access16:"РИКЕНБАКЕР"
 
 Access17:"КАЮТА ДИЕГО"
 //"DIEGO'S QUARTERS"
+
+////////////////////////////////////////////////////////////////////////////////
+//  Strings for SCP mod                                                             
+////////////////////////////////////////////////////////////////////////////////
+
+HPMaxed:"Здоровье уже на пределе."
+//"Hit points already at full."
+
+QuickSaveSlotName:"Быстрое сохранение"
+//"Quicksave"
+
+ResearchSus:"%s исследования приостановлено."
+//"%s research suspended."
+
+SCPMidgame0:"Обнаружена активация SCP в середине игры.\nНе поддерживается.\nВам необходимо начать новую игру."
+//"Mid-game activation of SCP\ndetected. Not supported. You\nmust start a new game."
+
+TraitAdded:"%s обновления ОС установленно."
+//"%s OS upgrade installed."
+
+WormBeakerPile:"Для сбора червей можно использовать только пустые мензурки."
+//"Only empty beakers can be used to collect worms."
+
+WrenchSkillReqTur:"Для обслуживания этой башни требуется навык %d."
+//"Maintaining this turret requires a skill of %d."
+
+WrenchUnusedTur:"Турель уже в хорошем состоянии."
+//"Turret already in good condition."

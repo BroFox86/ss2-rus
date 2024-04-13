@@ -1,29 +1,29 @@
-AssaultRifle:"Увеличивает вместимость обоймы с 36-и до 72-х."
-//"Increase the clip size from 36 to 72."
+AssaultRifle:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."
 
-EMP:"Снижает расход энергии и увеличивает скорострельность на 50%."
-//"Reduce energy usage and increase shot speed 50%."
+EMP:"Снижает расход энергии. Увеличивает скорострельность и урон."
+//"Reduce energy usage. Increase speed and damage."
 
-Fusion:"Снижает расход боеприпасов на 50%."
-//"Reduce ammo use by 50%."
+Fusion:"Снижает расход боеприпасов. Увеличивает урон."
+//"Reduce ammo use. Increase damage."
 
-GrenLauncher:"Увеличивает скорость вылета гранат и уменьшает время перезарядки."
-//"Increase speed of grenades, and reduce reload time."
+GrenLauncher:"Уменьшает время перезарядки. Увеличивает скорострельность и урон."
+//"Reduce reload time. Increase speed and damage."
 
-laser:"Снижает расход энергии на 33%."
-//"Reduce energy consumption by 33%."
+Laser:"Снижает расход энергии. Увеличивает урон."
+//Laser:"Reduce energy consumption. Increase damage."
 
-Pistol:"Уменьшает время перезарядки."
-//"Decrease reload time."
+Pistol:"Уменьшает время перезарядки. Увеличивает урон."
+//"Decrease reload time. Increase damage."
 
-Shotgun:"Уменьшает отдачу при стрельбе."
-//"Reduce the amount of kickback when fired."
+Shotgun:"Уменьшает отдачу при стрельбе. Увеличивает урон."
+//"Reduce kickback when fired. Increase damage."
 
-Stasis_Field_Generator:"Уменьшает расход боеприпасов на 50%."
-//"Reduce ammo use by 50%."
+Stasis_Field_Generator:"Уменьшает расход боеприпасов."
+//"Reduce ammo use."
 
-Viral_Prolif:"Уменьшает количество боеприпасов, нужное для выстрела."
-//"Reduce the amount of ammo used per shot."
+Viral_Prolif:"Уменьшает расход боеприпасов. Увеличивает урон."
+//"Reduce ammo use. Increase damage."
 
-Worm_Launcher:"Увеличивает скорость снаряда."
-//"Increase speed of projectile."
+Worm_Launcher:"Увеличивает скорость снаряда. Увеличивает урон."
+//"Increase projectile speed. Increase damage."

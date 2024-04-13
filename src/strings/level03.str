@@ -143,12 +143,12 @@ LogText8: "Я выбрал медсестру Блум в качестве новой матери для наших детей.  Она
 
 LogName5:"БЛУМ 02.ИЮЛ.14\nЯ волнуюсь\n"
 LogPortrait5:"Bloome"
-LogIcon5:"HydIcon"
+LogIcon5:"MedIcon"
 LogText5: "Я нашла эти схемы на столе д-ра Миллера... что-то вроде кибер-модификаций, запрещенных лет сорок назад... это на него не похоже...  Я собиралась поговорить с ним об этом, а потом заметила... цепочка ДНК, которую он взял для прототипа... это моя...\n"
 
 //LogName5:"BLOOME 02.JUL.14\nre: Worried\n"
 //LogPortrait5:"Bloome"
-//LogIcon5:"HydIcon"
+//LogIcon5:"MedIcon"
 //LogText5: "I found these schematics on Dr. Miller's desk... they're plans for the kind of cyber modification that's been illegal for forty years... that's not like him...  I was going to talk to him about it and then I noticed... the DNA sequence he spec'd for the prototype... it's mine...\n"
 
 
@@ -253,10 +253,10 @@ LogText14:"Убить молодь будет нелегко.  Но, думаю, у меня есть кое-что.  Биохими
 
 LogName9:"ТЕРНБУЛЛ 11.ИЮЛ.14\nПревращение\n"
 LogPortrait9:"Turnbull"
-LogIcon9:"RickIcon"
+LogIcon9:"OpsIcon"
 LogText9:"Знаете, так или иначе, Бронсон была права.  Думаю, мне остался примерно час... но я слежу за... трансформацией в надежде, что данные могут быть полезны кому-нибудь еще... эти опухоли... у меня на ногах и на спине... я чувствую, что эта штука внутри меня... жует, толстеет.  По моей теории, им нужен живой хозяин для завершения трансформации...  Долбаный Диего, долбаный Коренчкин, долбаный Тау Кита 5.  Если кто-нибудь найдет эту запись, - не сожалейте о том, что часы моей жизни остановились.  Со мной уже все кончено.\n"
 
 //LogName9:"TURNBULL 11.JUL.14\nre: Changing\n"
 //LogPortrait9:"Turnbull"
-//LogIcon9:"RickIcon"
+//LogIcon9:"OpsIcon"
 //LogText9:"What do you know, Bronson was right after all.  I imagine I've got about an hour... but I'm tracking the... the transformations in the hope that the data might be useful to someone else... there are tumors... on my leg and back... I can feel that thing inside of me... chewing, growing fat.  My theory is they need a living host to complete the transformation... Screw Diego, screw Korenchkin, screw Tau Ceti 5.  If someone finds this, don't have any regrets about punching my clock.  I was already gone.\n"

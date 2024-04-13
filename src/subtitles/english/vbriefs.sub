@@ -224,6 +224,17 @@ SUB1
 		{ time 17000 length 700 text "Они будут полезны." }
 	}
 
+	multisub trg0035 {
+		{ time 00 length 8000 text "Это камера видеонаблюдения. Если камера вас заметит, она поднимет тревогу и вызовет к вам отряд службы охраны." }
+		//{ time 00 length 8000 text "This is a security camera. If a camera spots you, it will raise an alarm and summon security forces to your location." }
+		{ time 7000 length 7000 text "Вы можете либо переждать сигнализацию, либо получить доступ к ближайшему компьютеру системы безопасности, чтобы отключить сигнализацию." }
+		//{ time 7000 length 7000 text "You can either wait out the alarm or access the nearest security computer to stop the alarm immediately." }
+		{ time 13000 length 7000 text "Вы также можете взломать компьютеры службы безопасности, чтобы временно отключить все камеры и турели в этом районе." }
+		//{ time 13000 length 7000 text "You can also hack security computers to temporarily disable all cameras and turrets in the area." }
+		{ time 19000 length 8000 text "Чтобы взломать компьютер службы безопасности, щелкните по нему правой кнопкой мыши, затем левой кнопкой мыши нажмите кнопку \"ВЗЛОМ\"." }
+		//{ time 19000 length 8000 text "To hack a security computer, right -click it, then left -click the hack button." }
+	}
+
 	// Psionics training
 
 	multisub trg0026 {

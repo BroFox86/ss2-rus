@@ -1,29 +1,29 @@
-AssaultRifle:"Уменьшает время перезарядки."
-//"Decrease reload time."
+AssaultRifle:"Уменьшает время перезарядки. Увеличивает урон."
+//"Decrease reload time. Increase damage."
 
-EMP:"Повышает запас энергии на 50%."
-//"Increase energy storage capacity by 50%."
+EMP:"Повышает запас энергии. Увеличивает урон."
+//"Increase energy storage capacity. Increase damage."
 
-Fusion:"Повышает емкость батарей."
-//"Increase battery size."
+Fusion:"Повышает емкость батарей. Увеличивает урон."
+//"Increase battery size. Increase damage."
 
-GrenLauncher:"Увеличивает вместимость обоймы."
-//"Increase clip size."
+GrenLauncher:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."
 
-laser:"Повышает запас энергии на 50%."
-//"Increase energy storage capacity by 50%."
+Laser:"Повышает запас энергии. Увеличивает урон."
+//"Increase energy storage capacity. Increase damage."
 
-Pistol:"Увеличивает вместимость обоймы с 12-и до 24-х."
-//"Increase clip size from 12 to 24."
+Pistol:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."
 
-Shotgun:"Уменьшает время перезарядки."
-//"Decrease reload time."
+Shotgun:"Уменьшает время перезарядки. Увеличивает урон."
+//"Decrease reload time. Increase damage."
 
-Stasis_Field_Generator:"Увеличивает скорострельность на 100%."
-//"Increase shot speed by 100%."
+Stasis_Field_Generator:"Увеличивает скорострельность."
+//"Increase shot speed."
 
-Viral_Prolif:"Увеличивает вместимость обоймы."
-//"Increase clip size."
+Viral_Prolif:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."
 
-Worm_Launcher:"Увеличивает вместимость обоймы."
-//"Increase clip size."
+Worm_Launcher:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."

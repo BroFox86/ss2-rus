@@ -19,8 +19,8 @@ Tech1:"От навыка ремонта зависят твои шансы починить сломанное оружие или компью
 Tech2:"От навыка модификации зависят твои шансы модифицировать оружие, улучшив его."
 //"The Modify skill determines your chances of modifying a weapon to an improved state."
 
-Tech3:"От навыка т/о зависит твое умение поддержи-\nвать оружие в должном состоянии. Чтобы исполь-\nзовать этот навык, надо иметь рем. инструмент."
-//"The Maintenance skill determines the amount of improvement you can make to the condition of a weapon.  You must have a Maintenance Tool to use this skill."
+Tech3:"Навык т/о определяет, насколько вы можете улучшить состояние оружия или турели с помощью ремонтного инструмента, и влияет на емкость аккумуляторов электрических предметов."
+//"The Maintenance skill determines how much you can improve the condition of a weapon or turret with a maintenance tool, and the charge powered items can hold."
 
 Tech4:"Опред. эффективность твоих иссл-ний. Изучение чужд. органов может дать немало полезн. инф-ции, а нек. предметы нельзя использовать, не изучив их."
 //"The Research skill determines the efficiency of your research.  Researching alien organs can yield useful information, and some items cannot be used without first being researched."
@@ -36,3 +36,13 @@ Tech8:"Ремонтный софт повышает твой навык ремонтника.  Но при минимальном навыке
 
 Tech9:"Исследовательский софт повышает твой навык исследователя.  Но при минимальном навыке он не поможет."
 //"Research software provides a bonus to Research skill.  It does not help for meeting minimum skill requirements."
+
+////////////////////////////////////////////////////////////////////////////////
+//  Strings for SCP mod                                                             
+////////////////////////////////////////////////////////////////////////////////
+
+Weapon4:"Эти кнопки позволяют переключаться между различными свойствами MFD."
+//"These buttons navigate between various character MFDs."
+
+Tech5:"Эти кнопки позволяют переключаться между различными свойствами MFD."
+//"These buttons navigate between various character MFDs."

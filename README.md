@@ -14,16 +14,17 @@
 * Надпись «миникарта» вмещается в кнопку.
 * Логотип с надписью «Инженеринг» заменен на «Инженерия».
 * Добавлены субтитры на русском языке от [ivanproff](https://forum.zoneofgames.ru/profile/401396-ivanproff/).
-* Модификация (мод) SCP содержит множество внутриигровых заметок и описаний. Все они переведены на русский язык.
+* В SCP добавлено много текстовых добавок и изменений. Переведены все найденные строки.
 * Изменены описания перков Tank и Naturally Able в соответствии с SCP.
 * Вырезаны локализованные текстуры из фаргусовской версии: смотрелись ужасно и перекрывали текстурные моды.
-* Главное меню с работающей анимацией, как в английском оригинале.
+* Главное меню с анимацией, как в английской версии.
 
 ## Скриншоты
 
 ![Screenshot](https://github.com/BroFox86/ss2-rus/blob/master/screenshots/gui.jpg)
 ![Screenshot](https://github.com/BroFox86/ss2-rus/blob/master/screenshots/records.jpg)
 ![Screenshot](https://github.com/BroFox86/ss2-rus/blob/master/screenshots/map.jpg)
+![Screenshot](https://github.com/BroFox86/ss2-rus/blob/master/screenshots/menu.jpg)
 
 ## Установка 
 

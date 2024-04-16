@@ -53,7 +53,7 @@ SUB1
 	}
 	multisub cs0804 {
 		{ time 100 length 4400 text "Ш-ш-ш... Не надо плакать, не плачь." }
-		{ time 4900 length 3000 text "Скоро ты будешь матерью их всех. Soon, you'll be the mother of them all." }
+		{ time 4900 length 3000 text "Скоро ты будешь матерью их всех." }
 	}
 }
 
@@ -137,16 +137,16 @@ SUB1
 }
 {
 	type "convo"
-	descr "SHODAN"
+	descr "ШОДАН"
 	multisub cs0902 {
-		{ time 4300 length 3800 text "Я - SHODAN." }
+		{ time 4300 length 3800 text "Я - ШОДАН." }
 		{ time 9000 length 18800 text "Мой анализ исторических данных свидетельствует о 97.34% вероятности того," }
 		{ time 17000 length 10800 text "что тебе известно о моём рождении на своей планете," }
 		{ time 22500 length 5300 text "и о моём прекрасном перерождении на станции Цитадель." }
 	}
 	multisub cs0903 {
 		{ time 1200 length 5900 text "На станции Цитадель была оранжерея." }
-		{ time 7100 length 11600 text "Там, компонент обработки SHODAN 43893 проводил великий и удивительный эксперимент." }
+		{ time 7100 length 11600 text "Там, компонент обработки ШОДАН 43893 проводил великий и удивительный эксперимент." }
 		{ time 18800 length 4100 text "Я сотворила новую форму жизни." }
 	}
 	multisub cs0904 {
@@ -258,7 +258,7 @@ SUB1
 
 {
 	type "convo"
-	descr "SHODAN"
+	descr "ШОДАН"
 	multisub cs2701 {
 		{ time 1900 length 3000 text "Бойся моих детей, насекомое!" }
 	}

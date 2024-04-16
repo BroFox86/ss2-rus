@@ -1,70 +1,70 @@
-GameName1:"Слоты"  
+GameName1:"Слоты"
 // "Slots"
 
-GameName2:"Супер Свин Турбо CE Альфа"  
+GameName2:"Супер Свин Турбо CE Альфа"
 // "Super Pig Turbo CE Alpha"
 
-YouHave:"У тебя"  
+YouHave:"У тебя"
 // "You Have"
 
-ComputerHas:"У Ксеркса"  
+ComputerHas:"У Ксеркса"
 // "Xerxes Has"
 
-Won:"Победа"  
+Won:"Победа"
 // "Won"
 
-Scored:"Счет"  
+Scored:"Счет"
 // "Scored"
 
-YouScore:"Ты: %d"  
+YouScore:"Ты: %d"
 // "You: %d"
 
-ComputerScore:"Ксеркс: %d"  
+ComputerScore:"Ксеркс: %d"
 // "Xerxes: %d"
 
-GameName3:"Свинопас"  
+GameName3:"Свинопас"
 // "Swinekeeper"
 
 SwineLose:"Ты наступил на зерно!\nИгра окончена."
 // "You stepped on the corn!\nGame over."
 
-SwineWin:"Ты нашел все зерно!  Ты выиграл!"  
+SwineWin:"Ты нашел все зерно!  Ты выиграл!"
 // "You found all the corn!  You win!"
 
 SwineStart:"Свиньи любят зерно. Не наступай на зерно!  Подними зерно."
 // "Corn attracts swine. Don't step on corn!  Flag the corn."
 
-GameName5:"Метание бекона"  
+GameName5:"Метание бекона"
 // "Hurling Bacon"
 
-kb_score:"Бекон пойман: %d"  
+kb_score:"Бекон пойман: %d"
 // "Bacon Caught: %d"
 
-kb_gameover:"Игра окончена"  
+kb_gameover:"Игра окончена"
 // "Game Over"
 
-kb_missed:"Ты упустил кусок бекона"  
+kb_missed:"Ты упустил кусок бекона"
 // "You missed a piece of bacon."
 
-GameName6:"Свинтус"  
+GameName6:"Свинтус"
 // "Hog Wallow"
 
-ab_gameover:"Игра окончена"  
+ab_gameover:"Игра окончена"
 // "Game Over"
 
-GameName4:"Всемирная Пустота"  
+GameName4:"Всемирная Пустота"
 // "OverWorld Zero"
 
-ow_stats_hp:"Здор: %d / %d"  
+ow_stats_hp:"Здор: %d / %d"
 // "Hp: %d / %d"
 
-ow_stats_gp:"Зол: %d"  
+ow_stats_gp:"Зол: %d"
 // "GP: %d"
 
-ow_stats_lplus:"Уров: %d / %d"  
+ow_stats_lplus:"Уров: %d / %d"
 // "Lvl: %d / %d"
 
-ow_stats_lnorm:"Уров: %d"  
+ow_stats_lnorm:"Уров: %d"
 // "Level: %d"
 
 ow_stats_xp:"Экспа: %d"

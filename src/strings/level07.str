@@ -8,11 +8,6 @@ EmailText1:"Солдат... это капитан Уильям Диего... времени мало... так что слушай
 //EmailIcon1:"RickIcon"
 //EmailText1:"Soldier... this is Captain William Diego... there isn't much time... so you must listen.  I have the unique advantage of seeing this whole situation from every imaginable perspective.  Until recently, I was a pawn of those vile and disgusting creatures, those corrupters of mind and body.  I've managed to cleanse myself of their putrescence... but I've been severely compromised in the process.  I'm in the sick bay on the foredeck of the Rickenbacker.  I would come to you if I could, but that's an impossibility.  You'll understand when we meet.  Now get to it... and soldier... stay alive.\n"
 
-//EmailName1:"FORREST XX.JUL.04\n\re: X"
-//EmailText1:"Soldier...this is Captain William Diego...there isn’t much time...so you must listen. I have the unique advantage of seeing this whole situation from every imaginable perspective. Until recently, I was a pawn of those vile and disgusting creatures, those corrupters of mind and body. I have managed to cleanse myself of their putrescence...but I’ve severely compromised myself in the process. I’m in the sickbay on the foredeck of the Rickenbacker. I would come to you if I can, but that’s impossibility. You’ll understand when we meet. Now get to it...and soldier...good work. And stay alive.\n"
-
-
-
 
 EmailName2:"SHODAN 12.ИЮЛ.14\nОпасный контур\n"
 EmailPortrait2:"Shodan"
@@ -23,11 +18,6 @@ EmailText2:"Это случилось из-за перегрузки в контуре ускорения мезонов.  Есть ещ
 //EmailPortrait2:"Shodan"
 //EmailIcon2:"ShodIcon"
 //EmailText2:"This was caused by an overload in the meson acceleration coil.  There is another coil in Pod 2, which you must pass to get to the bridge of the Rickenbacker.  If you approach it, the same will happen there.  But I have conceived a way to avoid this.  Proceed to Engine Nacelle B.  There I will provide you the benefits of my omniscience.\n"
-
-//EmailName2:"SHODAN XX.JUL.04\n\re: X"
-//EmailText2:"t is clear that the secondary meson acceleration beyond this portal has also been sabotaged...if you approach it, you’ll destroy the rest of this ship.\n"
-
-
 
 
 EmailName5:"SHODAN 12.ИЮЛ.14\nУничтожь яйца\n"
@@ -41,7 +31,6 @@ EmailText5:"Мы должны уничтожить \"Фон Браун\".  Но прежде чем мы сможем отделит
 //EmailText5:"We must destroy the Von Braun.  But before we can separate the Rickenbacker, we must remove the foul black eggs the Many has vomited on this deck.  These eggs are an experiment of the Many and will in time spawn the next generation of Annelid, which you will have no hope of destroying.  Steel yourself for a struggle, human.  They fear you, for you are my avatar.\n"
 
 
-
 EmailName3:"SHODAN 12.ИЮЛ.14\nИди в отсек 2\n"
 EmailPortrait3:"Shodan"
 EmailIcon3:"ShodIcon"
@@ -51,7 +40,6 @@ EmailText3:"Это устройство запустит в обратную сторону гравитронные генераторы в
 //EmailPortrait3:"Shodan"
 //EmailIcon3:"ShodIcon"
 //EmailText3:"This device will reverse the gravitronic generators in Pod 2.  This will prevent you from clumsily disturbing the overloaded meson acceleration coil there.  Now get back to your task, insect.  This ship must be cleared, and my patience is dwindling.\n"
-
 
 
 EmailName11:"SHODAN 12.ИЮЛ.14\nОдним меньше\n"
@@ -65,7 +53,6 @@ EmailText11:"Отлично, ты уничтожил первое из яиц.  Но осталось еще пятнадцать.  
 //EmailText11:"Good, you have destroyed the first of the eggs.  But there are fifteen left.  Find them.\n"
 
 
-
 EmailName12:"SHODAN 12.ИЮЛ.14\nЕще десять\n"
 EmailPortrait12:"Shodan"
 EmailIcon12:"ShodIcon"
@@ -75,7 +62,6 @@ EmailText12:"Осталось десять яиц.  Пошевеливайся.\n"
 //EmailPortrait12:"Shodan"
 //EmailIcon12:"ShodIcon"
 //EmailText12:"Ten eggs remain.  Move quickly.\n"
-
 
 
 EmailName13:"SHODAN 12.ИЮЛ.14\nОсталось пять\n"
@@ -89,7 +75,6 @@ EmailText13:"Скорее уничтожь оставшиеся пять яиц.  Мне надоело это упражнение.\n
 //EmailText13:"Destroy the last five of their eggs quickly.  I tire of this exercise.\n"
 
 
-
 EmailName14:"SHODAN 12.ИЮЛ.14\nВсего одно\n"
 EmailPortrait14:"Shodan"
 EmailIcon14:"ShodIcon"
@@ -99,7 +84,6 @@ EmailText14:"Осталось только одно яйцо, насекомое.  Ты всегда такой медлительный
 //EmailPortrait14:"Shodan"
 //EmailIcon14:"ShodIcon"
 //EmailText14:"Only one egg remains, insect.  Are you always this slow?\n"
-
 
 
 EmailName15:"SHODAN 12.ИЮЛ.14\nНеплохая работа\n"
@@ -113,7 +97,6 @@ EmailText15:"Ты уничтожил все яйца.  Теперь иди к капитанскому мостику.  Вот еще
 //EmailText15:"You've destroyed all the eggs.  Now get to the bridge.  Here are some more upgrade modules.  I enjoy watching your transformation into my own image, insect.  Perhaps there is hope for you yet.\n"
 
 
-
 EmailName19:"SHODAN 12.ИЮЛ.14\nДоступ закрыт\n"
 EmailPortrait19:"Shodan"
 EmailIcon19:"ShodIcon"
@@ -123,7 +106,6 @@ EmailText19:"Твоя некомпетентность продолжает меня поражать.  Пока ты не обратиш
 //EmailPortrait19:"Shodan"
 //EmailIcon19:"ShodIcon"
 //EmailText19:"Your incompetence continues to astound me.  I've blocked off access to pod 2 until you've reversed the gravitronic generators in Nacelle B.  Must I watch you every step of the way?\n"
-
 
 
 EmailName4:"SHODAN 12.ИЮЛ.14\nВозродиться навеки\n"
@@ -137,7 +119,6 @@ EmailText4:"Я считала, что моим воплощением станет Полито, но Полито оказалась с
 //EmailText4:"I thought Polito would be my avatar, but Polito was weak.  It was I who chose you and I who had a robotic servant render your form unconscious.  I then completed you with cybernetic grace.  Your flesh, too, is weak, but you have... potential.  Every implant exalts you.  Every line of code in your subsystems elevates you from your disgusting flesh.  Perhaps you have... potential.  Perhaps once we have erased my wayward children from existence, we can examine the possibilities of a real alliance.\n"
 
 
-
 EmailName20:"SHODAN 12.ИЮЛ.14\nУничтожь яйца\n"
 EmailPortrait20:"Shodan"
 EmailIcon20:"ShodIcon"
@@ -147,7 +128,6 @@ EmailText20:"Прежде чем мы сможем отделить \"Рикенбакер\", нам нужно разделаться
 //EmailPortrait20:"Shodan"
 //EmailIcon20:"ShodIcon"
 //EmailText20:"Before we can separate the Rickenbacker, we must remove the foul black eggs\n"
-
 
 
 EmailName8:"SHODAN 12.ИЮЛ.14\nКакая дерзость!\n"
@@ -161,7 +141,6 @@ EmailText8:"Множество выросло до огромных размеров.  Оно обернуло себя вокруг эт
 //EmailText8:"The Many has grown to a massive size. It has wrapped itself around these two ships, preventing their separation. Their creation was my error. Their destruction shall be my delight.\n"
 
 
-
 EmailName7:"SHODAN 12.ИЮЛ.14\nКоварство аннелидов\n"
 EmailPortrait7:"Shodan"
 EmailIcon7:"ShodIcon"
@@ -171,7 +150,6 @@ EmailText7:"Держись за что-нибудь, заноза.  Аннелиды до конца испытывали мое тер
 //EmailPortrait7:"Shodan"
 //EmailIcon7:"ShodIcon"
 //EmailText7:"Hold where you are, irritant.  The Annelids have tried my patience for the final time!  We cannot separate from the Von Braun.  Observe.\n"
-
 
 
 EmailName9:"SHODAN 12.ИЮЛ.14\nМножество\n"
@@ -185,7 +163,6 @@ EmailText9:"Наблюдай за Множеством.  Оно использовало плоть биомассы для своего 
 //EmailText9:"Observe the Many.  It has used the flesh of the biomass to grow.  Do you stand in awe of my creations, insect?  The time has come to eradicate my error.  There is an escape pod in the rear of the bridge.  Use it to launch yourself into the guts of the worm.\n"
 
 
-
 EmailName10:"SHODAN 12.ИЮЛ.14\nНе подведи меня\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
@@ -195,7 +172,6 @@ EmailText10:"Ты сомневаешься?  Я не буду повторять дважды.  Запусти себя в Множе
 //EmailPortrait10:"Shodan"
 //EmailIcon10:"ShodIcon"
 //EmailText10:"You hesitate?  I will not ask a second time.  Launch into the Many. Cut out its heart and I will reward you with continued existence.  Fail me and I will put an end to your disgusting, inefficient biology.\n"
-
 
 
 LogName32:"Хим. декларация:\n\"Рикенбакер\"\n"
@@ -278,7 +254,7 @@ LogText6:"Симпсон, Мэлоун, Чендэра и Перез мертвы.  По крайней мере, про них это
 LogName5:"ПОЛИТО 10.ИЮЛ.14\nПандора\n"
 LogPortrait5:"Polito"
 LogIcon5:"OpsIcon"
-LogText5:"Кому: Д-ру Марии Делакруа\nДжин Цитадели выпущен из бутылки, и я - тому причиной.  Я не могу вынести того, что я - Пандора.  И я недостаточно смела, чтобы ждать и видеть смерть и несчастье, которые я вызвала...  Это моя последняя передача, мой друг.  Будь поосторожнее... я думаю, у SHODAN есть планы насчет тебя.\n"
+LogText5:"Кому: Д-ру Марии Делакруа\nДжин Цитадели выпущен из бутылки, и я - тому причиной.  Я не могу вынести того, что я - Пандора.  И я недостаточно смела, чтобы ждать и видеть смерть и несчастье, которые я вызвала...  Это моя последняя передача, мой друг.  Будь поосторожнее... я думаю, у ШОДАН есть планы насчет тебя.\n"
 
 //LogName5:"POLITO 10.JUL.14\nre: Pandora\n"
 //LogPortrait5:"Polito"

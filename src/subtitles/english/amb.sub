@@ -21,7 +21,7 @@ SUB1
 
 {
 	type "bark"
-	descr "SHODAN"
+	descr "ШОДАН"
 	sub shodoor1 { text "Человек." }
 	sub shodoor7 { text "Человек." }
 	sub shodoor9 { text "Насекомое." }

@@ -473,7 +473,7 @@ SUB1
 }
 
 
-	multisub EM0307 {
+	multisub EM0308 {
 
 		{ time 200    	length	1334  text		"Они знают, где ты." }
 
@@ -505,7 +505,7 @@ SUB1
 	
 	type "email"
 
-	descr "SHODAN"
+	descr "ШОДАН"
 	
 
 	multisub EM0109 {
@@ -862,7 +862,7 @@ SUB1
 
 		{ time 200    	length	2900  text		"Я надеюсь ты насладился своим маленьким бунтом, заноза." }
 
-		{ time 3220   	length	3944  text		"Но помни, то, что даёт SHODAN, она более чем в состоянии забрать назад." }
+		{ time 3220   	length	3944  text		"Но помни, то, что даёт ШОДАН, она более чем в состоянии забрать назад." }
 	
 }
 
@@ -1112,7 +1112,7 @@ SUB1
 
 		{ time 200    	length	1972  text		"Всё идет по плану." }
 
-		{ time 2292   	length	7830  text		"Нам удалось настроить Множество против SHODAN, и ты был достаточно глуп, чтобы плясать под дудку этого любящего покомандовать суперкомпьютера." }
+		{ time 2292   	length	7830  text		"Нам удалось настроить Множество против ШОДАН, и ты был достаточно глуп, чтобы плясать под дудку этого любящего покомандовать суперкомпьютера." }
 
 		{ time 10242  	length	9048  text		"Не хочешь присоединиться к нам? Пока ты копил боеприпасы, шприц-тюбики и хай-тек-примочки, мы собрали все до единого орехи, бананы и кокосы на борту." }
 
@@ -1470,13 +1470,13 @@ SUB1
 
 		{ time 200    	length	4176  text		"Малыш, ты должен кое-что узнать." }
 
-		{ time 4496   	length	5800  text		"Я получила информацию от некой формы искусственного интеллекта, которая называет себя SHODAN." }
+		{ time 4496   	length	5800  text		"Я получила информацию от некой формы искусственного интеллекта, которая называет себя ШОДАН." }
 
-		{ time 10416  	length	696   text		"Да, SHODAN." }
+		{ time 10416  	length	696   text		"Да, ШОДАН." }
 
 		{ time 11232  	length	7656  text		"Откуда бы она ни явилась, она ужасно ненавидит этих аннелидов и уже не раз спасала мне жизнь." }
 
-		{ time 19008  	length	7250  text		"SHODAN сказала мне, что на корабле находится оперативный сотрудник UNN, вооружённый до зубов и оснащённый военными кибер-имплантами." }
+		{ time 19008  	length	7250  text		"ШОДАН сказала мне, что на корабле находится оперативный сотрудник UNN, вооружённый до зубов и оснащённый военными кибер-имплантами." }
 
 		{ time 26378  	length	1392  text		"Веселая компания, не правда ли?" }
 	
@@ -1498,7 +1498,7 @@ SUB1
 
 		{ time 200    	length	2842  text		"Аннелиды отрезали нас от передатчика." }
 
-		{ time 3162   	length	9338  text		"SHODAN говорит мне, что как только мы снова включим передатчик и перепрограммируем компьютеры на палубе управления, она сможет отобрать у Ксеркса контроль над кораблём." }
+		{ time 3162   	length	9338  text		"ШОДАН говорит мне, что как только мы снова включим передатчик и перепрограммируем компьютеры на палубе управления, она сможет отобрать у Ксеркса контроль над кораблём." }
 
 		{ time 12620  	length	5278  text		"Кому я должна верить меньше?  Самозванцу, претендующему на место монстра, или самому монстру?" }
 	
@@ -1507,7 +1507,7 @@ SUB1
 
 	multisub LOG0613 {
 
-		{ time 200    	length	4930  text		"Полито сказала, что искусственный интеллект, который на данный момент я считаю SHODAN, на самом деле собирается..." }
+		{ time 200    	length	4930  text		"Полито сказала, что искусственный интеллект, который на данный момент я считаю ШОДАН, на самом деле собирается..." }
 
 		{ time 5250   	length	1334  text		"<<СООБЩЕНИЕ ПРЕРВАНО>>." }
 	
@@ -1518,7 +1518,7 @@ SUB1
 
 		{ time 200    	length	1160  text		"Они добрались и до меня..." }
 
-		{ time 1480   	length	1624  text		"А SHODAN меня покинула." }
+		{ time 1480   	length	1624  text		"А ШОДАН меня покинула." }
 
 		{ time 3224   	length	1160  text		"Я не очень-то и удивлена..." }
 
@@ -1535,13 +1535,13 @@ SUB1
 
 		{ time 200    	length	2552  text		"Если ты получил это послание, то я уже мертва." }
 
-		{ time 2872   	length	5510  text		"Когда я осознала, что SHODAN предала меня, я встроила эти примечания в её главную базу данных." }
+		{ time 2872   	length	5510  text		"Когда я осознала, что ШОДАН предала меня, я встроила эти примечания в её главную базу данных." }
 
-		{ time 8502   	length	6322  text		"SHODAN открыла, как использовать в своих собственных целях способность сверхсветового двигателя \"Фон Брауна\" деформировать пространство." }
+		{ time 8502   	length	6322  text		"ШОДАН открыла, как использовать в своих собственных целях способность сверхсветового двигателя \"Фон Брауна\" деформировать пространство." }
 
 		{ time 14944  	length	4988  text		"Устройство работает, изменяя пространство вокруг корабля согласно совершенно чётким требованиям." }
 
-		{ time 20052  	length	2552  text		"SHODAN изменила эти требования на СВОИ." }
+		{ time 20052  	length	2552  text		"ШОДАН изменила эти требования на СВОИ." }
 
 		{ time 22724  	length	3712  text		"Эффект пока довольно небольшой, но распространяется с угрожающей скоростью." }
 
@@ -1560,7 +1560,7 @@ SUB1
 
 		{ time 200    	length	1334  text		"Ты здесь не один..." }
 
-		{ time 1654   	length	3770  text		"SHODAN породила свою собственную версию ужасов \"Фон Брауна\"..." }
+		{ time 1654   	length	3770  text		"ШОДАН породила свою собственную версию ужасов \"Фон Брауна\"..." }
 
 		{ time 5544   	length	2726  text		"Помни, они - виртуальные, не настоящие..." }
 
@@ -1589,7 +1589,7 @@ SUB1
 		{ time 12922  	length	5916  text		"Мне удалось предложить некоторую помощь в виде виртуальных терминалов, которые вы можете взломать..." }
 		//{ time 12922  	length	5916  text		"I've been able to introduce some assistance in the form of virtual terminals that you can hack into..." }
 
-		{ time 18958  	length	2320  text		"они должны помочь вам победить этого монстра..." }
+		{ time 18958  	length	2320  text		"они должны помочь вам победить монстра..." }
 		//{ time 18958  	length	2320  text		"they should help you defeat the monster..." }
 	
 }
@@ -1597,9 +1597,9 @@ SUB1
 
 		{ time 200    	length	2146  text		"Ты должен понять, что поставлено на карту..." }
 
-		{ time 2466   	length	4292  text		"Если SHODAN не остановить, её реальность полностью поглотит нашу." }
+		{ time 2466   	length	4292  text		"Если ШОДАН не остановить, её реальность полностью поглотит нашу." }
 
-		{ time 6878   	length	4002  text		"Пространство станет киберпространством, а прихоти SHODAN станут реальностью." }
+		{ time 6878   	length	4002  text		"Пространство станет киберпространством, а прихоти ШОДАН станут реальностью." }
 	
 }
 
@@ -2016,7 +2016,7 @@ SUB1
 
 		{ time 200    	length	2204  text		"Моя служба - UNN и этот корабль." }
 
-		{ time 2524   	length	5278  text		"Но смогу ли я не поддаваться зову Множества?  Слабость моего отца вызвала к жизни SHODAN." }
+		{ time 2524   	length	5278  text		"Но смогу ли я не поддаваться зову Множества?  Слабость моего отца вызвала к жизни ШОДАН." }
 
 		{ time 7922   	length	3480  text		"МОЯ слабость впустила эту дрянь на борт \"Фон Брауна\"..." }
 
@@ -2800,7 +2800,7 @@ SUB1
 
 		{ time 15068  	length	754   text		"Будь поосторожнее..." }
 
-		{ time 15942  	length	1914  text		"Я думаю, у SHODAN есть планы насчет тебя." }
+		{ time 15942  	length	1914  text		"Я думаю, у ШОДАН есть планы насчет тебя." }
 	
 }
 
@@ -3510,7 +3510,7 @@ SUB1
 
 		{ time 3220   	length	2958  text		"Они ещё борются, но падут перед нашим единством." }
 
-		{ time 6298   	length	7018  text		"Разве мать-машина не знает, что её собственное творение сильнее, чем она сама? Она - холодная и пустая, а мы - тёплые и полные..." }
+		{ time 6298   	length	7018  text		"Разве Мать-машина не знает, что её собственное творение сильнее, чем она сама? Она - холодная и пустая, а мы - тёплые и полные..." }
 
 		{ time 13436  	length	1566  text		"Она стремится только к уничтожению..." }
 
@@ -3958,7 +3958,7 @@ SUB1
 
 		{ time 200    	length	6612  text		"За столь ничтожный для эволюции срок они развились до такой степени, что смогли захватить этот космический корабль, величайшее создание человечества." }
 
-		{ time 6932   	length	16762 text		"Какими были мы после сорока лет эволюции? В каком болоте плавали, одноклеточные и безмозглые? Что если творения SHODAN выше нас? Кем они станут через миллион лет, через 10 миллионов лет? Ясно одно, нельзя допустить, чтобы SHODAN играла в бога." }
+		{ time 6932   	length	16762 text		"Какими были мы после сорока лет эволюции? В каком болоте плавали, одноклеточные и безмозглые? Что если творения ШОДАН выше нас? Кем они станут через миллион лет, через 10 миллионов лет? Ясно одно, нельзя допустить, чтобы ШОДАН играла в бога." }
 
 		{ time 23814  	length	1508  text		"Слишком хорошо у неё это получается." }
 	
@@ -3998,7 +3998,7 @@ SUB1
 
 	multisub LOG0810 {
 
-		{ time 200    	length	10266 text		"Помимо паразитического поведения, очевидного в жизненном цикле гибридов человека и аннелида, мне становится ясно, что SHODAN научила Множество использовать людей в других целях." }
+		{ time 200    	length	10266 text		"Помимо паразитического поведения, очевидного в жизненном цикле гибридов человека и аннелида, мне становится ясно, что ШОДАН научила Множество использовать людей в других целях." }
 
 		{ time 10586  	length	4930  text		"Прежде всего, Множество, несомненно, обладает способностью преобразовывать человеческую плоть в энергию..." }
 
@@ -4014,6 +4014,140 @@ SUB1
 	
 }
 
+}
 
 
+{
+	type "convo"
+
+	descr "Множество"
+
+	singleton
+
+	multisub em0307 {
+		{ time 2600 length 7600 text "Жизнь растет в недрах этих стен... жизнь, которая никогда не видела поверхности Земли." }
+		//{ time 2600 length 7600 text "Life grows within the womb of these walls... life that has never seen the surface of the Earth." }
+	}
+	multisub em0508 {
+		{ time 1800 length 5100 text "Младенцы должны спать. Младенцы должны отдыхать." }
+		//{ time 1800 length 5100 text "Babies must sleep. Babies must rest." }
+
+		{ time 8100 length 4000 text "Мудр тот, кто не будит их." }
+		//{ time 8100 length 4000 text "Wise is the one who does not waken them." }
+
+		{ time 13000 length 6400 text "Покинь это место сейчас же, или мы раним тебя, как ты ранил нас." }
+		//{ time 13000 length 6400 text "Leave this place now, or we will wound you, as you have us." }
+	}
+	multisub em0807 {
+		{ time 1800 length 5600 text "Подчинись биомассе, и твои страдания прекратятся." }
+		//{ time 1800 length 5600 text "Submit to the biomass, and your suffering will end." }
+	}
+	multisub em0405 {
+		{ time 2500 length 5100 text "Это враг Множества... диссонанс в нашей симфонии." }
+		//{ time 2500 length 5100 text "It is an enemy of the Many... a discordance in our symphony." }
+
+		{ time 7800 length 8500 text "Наслаждайся своими эгоистичными актами разрушения, ибо за ними кроется пагуба одиночества." }
+		//{ time 7800 length 8500 text "Enjoy your selfish acts of destruction, for beyond them lies the blight of solitude." }
+	}
+	multisub em0503 {
+		{ time 1700 length 3300 text "Недоверие - это тирания индивидуума." }
+		//{ time 1700 length 3300 text "Mistrust is the tyranny of the individual." }
+
+		{ time 5800 length 3000 text "Твой собственный вид видит в тебе угрозу." }
+		//{ time 5800 length 3000 text "Your own kind sees you as a threat." }
+
+		{ time 9300 length 2900 text "Почему ты убиваешь наше единство?" }
+		//{ time 9300 length 2900 text "Why do you murder our unity?" }
+
+		{ time 13200 length 3300 text "Неважно... линия проведена." }
+		//{ time 13200 length 3300 text "No matter... the line is drawn." }
+
+		{ time 17300 length 6400 text "Ты перестанешь существовать... вопрос лишь в том, кто приведет тебя к концу." }
+		//{ time 17300 length 6400 text "You will cease to be... it is just a question of who will bring your end." }
+
+		{ time 24500 length 3000 text "Мы... или ты." }
+		//{ time 24500 length 3000 text "Us... or you." }
+	}
+	multisub em0507 {
+		{ time 2600 length 5000 text "Ты ищешь своих единомышленников, но не можешь их найти." }
+		//{ time 2600 length 5000 text "You seek your associates, but you cannot find them." }
+
+		{ time 8200 length 10800 text "Ты так одинок." }
+		//{ time 8200 length 10800 text "You are so very alone." }
+
+		{ time 11300 length 5300 text "Каково это - быть одному против бесконечности?" }
+		//{ time 11300 length 5300 text "How does it feel to be one against the infinite?" }
+	}
+	multisub em0801 {
+		{ time 2100 length 4100 text "Мы рады приветствовать тебя в нашей биомассe." }
+		//{ time 2100 length 4100 text "We welcome you to our biomass." }
+
+		{ time 6200 length 4500 text "Мы приглашаем тебя расположиться на наших стенах." }
+		//{ time 6200 length 4500 text "We invite you to spread yourself out on our walls." }
+
+		{ time 10900 length 5900 text "Вскоре один из нашего Множества будет рядом, чтобы помочь тебе." }
+		//{ time 10900 length 5900 text "One of our many will be there to help you before long." }
+	}
+	multisub em0802 {
+		{ time 1700 length 5000 text "Мать-машина не может помочь тебе внутри биомассы." }
+		//{ time 1700 length 5000 text "The machine mother cannot help you inside the biomass." }
+
+		{ time 8100 length 6200 text "Ее холод не приветствуется в тепле нашей плоти." }
+		//{ time 8100 length 6200 text "Her coldness is not welcome within the warmth of our flesh." }
+	}
+	multisub em0803 {
+		{ time 1300 length 4200 text "Возможно, мы судили о тебе слишком поспешно." }
+		//{ time 1300 length 4200 text "Perhaps we judged you too hastily." }
+
+		{ time 6000 length 3800 text "Мы чувствуем, что у нас есть место для сосуществования." }
+		//{ time 6000 length 3800 text "We feel there is room for us to coexist." }
+
+		{ time 10300 length 4300 text "В конце концов, мы оба дети плоти." }
+		//{ time 10300 length 4300 text "After all, we are both children of the flesh." }
+
+		{ time 15800 length 4700 text "Почему бы тебе не присоединиться к нам в борьбе против Мать-машины?" }
+		//{ time 15800 length 4700 text "Why not join with us against the machine mother?" }
+	}
+	multisub em0804 {
+		{ time 2100 length 5600 text "Ты разрываешь саму нашу плоть, не думая о сострадании." }
+		//{ time 2100 length 5600 text "You tear our very flesh with no thought of compassion." }
+
+		{ time 7800 length 8100 text "Неужели ты думаешь, что мы будем сидеть сложа руки, пока ты растлеваешь саму основу нашего существования?" }
+		//{ time 7800 length 8100 text "Do you think we will sit idly by while you corrupt the very womb of our existence?" }
+	}
+	multisub em0805 {
+		{ time 1900 length 8100 text "Ты был предупрежден. Приготовься быть уничтоженным отпрыском нашей радости." }
+		//{ time 1900 length 8100 text "You were warned. Prepare to be cut down by the progeny of our joy." }
+	}
+	multisub em0806 {
+		{ time 1200 length 4900 text "Неужели ты думаешь, что можешь победить нас своей проволокой и сталью?" }
+		//{ time 1200 length 4900 text "Do you think you can defeat us with your wire and steel?" }
+
+		{ time 6200 length 8600 text "Мы предлагали тебе наслаждение нашим союзом, а ты предпочел технологический вакуум." }
+		//{ time 6200 length 8600 text "We offered you the ecstacy of our union, and you chose the vacuum of technology." }
+	}
+	multisub em0808 {
+		{ time 1500 length 7400 text "Ты знаешь, что ты натворил? Наша трагедия написана твоей рукой." }
+		//{ time 1500 length 7400 text "Do you know what you have wrought? Our tragedy is written by your hand." }
+	}
+	multisub em0809 {
+		{ time 1200 length 3000 text "Мы умираем..." }
+		//{ time 1200 length 3000 text "We die..." }
+
+		{ time 4300 length 9200 text "Остерегайтесь Мать-машины... ей чуждо все, чем мы дорожим." }
+		//{ time 4300 length 9200 text "Beware the machine mother... she is a stranger to everything we cherish." }
+	}
+	multisub em0706 {
+		{ time 2500 length 8500 text "Твое время на исходе. Это место - утроба, где мы растим наше будущее." }
+		//{ time 2500 length 8500 text "Your time is running out. This place is a womb, where we grow our future." }
+
+		{ time 11800 length 9400 text "Твое оружие выходит из строя, боеприпасы на исходе, а тебе еще предстоит увидеть наше самое прекрасное творение." }
+		//{ time 11800 length 9400 text "Your weapons fail... your ammunition runs low... and you've yet to see our most beautiful creation." }
+
+		{ time 22200 length 6900 text "Все, что у тебя есть, - это твоя ненависть и твоя... индивидуальность." }
+		//{ time 22200 length 6900 text "All you have is your hatred, and your... individuality." }
+
+		{ time 30100 length 5900 text "Разве ты не жалеешь, что не присоединился к нам? Чувствовал бы ты себя тогда таким одиноким?" }
+		//{ time 30100 length 5900 text "Now don't you wish you'd joined us? Would you then feel so alone?" }
+	}
 }

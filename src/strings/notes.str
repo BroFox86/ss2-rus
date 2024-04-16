@@ -72,6 +72,10 @@ Note_2_2:"Пройди через аварийный шлюз."
 NoteOrder_2_2:"202"
 //"Get through a secure airlock."
 
+Note_2_4:"Код для Крио-А: 45100."
+NoteOrder_2_4:"203"
+//"The code for Cryo A is 45100."
+
 
 Note_2_10:"Заряди аккумулятор, чтобы открыть дверь в Мед. крыло."
 NoteOrder_2_10:"204"
@@ -173,19 +177,14 @@ NoteOrder_4_9:"408"
 //Note_4_9:"Go to the Engine Core on the Engineering Deck."
 
 
-Note_5_8:"Экзооружие на 2-м этаже в крыле экипажа. Код: 11111."
-NoteOrder_5_8:"505"
-//Note_5_8:"An exotic weapon is on Level 2 of the Crew Annex, code 11111."
-
-
-Note_5_6:"Код доступа к слу-\nжебному туннелю сада: 34093."
-NoteOrder_5_6:"506"
-//Note_5_6:"The code for the Garden maintenance tunnel is 34093."
-
-
 Note_5_5:"Рубильник освещ. баскет. площадки - рядом с бассейном."
 NoteOrder_5_5:"501"
 //Note_5_5:"A circuit breaker for the basketball court lights is near the pool."
+
+
+Note_5_9:"Код для передатчика: 14106."
+NoteOrder_5_9:"502"
+//"The code for the Transmitter is 14106."
 
 
 Note_5_4:"Запусти передатчик кодом, скрытым в арт-терминалах."
@@ -198,139 +197,14 @@ NoteOrder_5_7:"504"
 //Note_5_7:"Find the Transmitter and activate it."
 
 
-Note_5_2:"Возвращайся на палубу управления."
-NoteOrder_5_2:"507"
-//Note_5_2:"Return to the Ops Deck."
+Note_5_8:"Экзооружие на 2-м этаже в крыле экипажа. Код: 11111."
+NoteOrder_5_8:"505"
+//Note_5_8:"An exotic weapon is on Level 2 of the Crew Annex, code 11111."
 
 
-Note_5_3:"Отправляйся на командную палубу."
-NoteOrder_5_3:"508"
-//Note_5_3:"Go to the Command Deck."
-
-
-Note_6_1:"Найди карту дос-\nтупа к коррекции управления."
-NoteOrder_6_1:"601"
-//Note_6_1:"Find the Ops Override access card."
-
-
-Note_6_3:"Иди в командный центр на палубе управления."
-NoteOrder_6_3:"602"
-//Note_6_3:"Go to the Command Center on the Ops Deck."
-
-
-Note_6_5:"Встреться с д-ром Делакруа в груз. отсеке А."
-NoteOrder_6_5:"603"
-//Note_6_5:"Meet Dr. Delacroix in cargo bay A."
-
-
-Note_6_11:"Код доступа в пункт охраны: 83273."
-NoteOrder_6_11:"604"
-//Note_6_11:"The code for the Security Station is 83273."
-
-
-Note_6_10:"Карта доступа к че-\nлнокам -в пункте СБ в каютах офицеров."
-NoteOrder_6_10:"605"
-//Note_6_10:"The Shuttle card is in the Security Station in the Officers' Quarters."
-
-
-Note_6_12:"Отключи защ. поле вокруг челноков из рубки управления."
-NoteOrder_6_12:"606"
-//Note_6_12:"Deactivate the shields around the shuttles from the Control Chamber."
-
-
-Note_6_13:"После отключения защитного поля уничтожь челноки."
-NoteOrder_6_13:"607"
-//Note_6_13:"Once the shields are down, destroy the shuttles."
-
-
-Note_6_6:"Чтобы получить сим. резонатор, взломай репликатор в рубке."
-NoteOrder_6_6:"608"
-//Note_6_6:"Hack the shuttle control rep. to get a Sympathetic Resonator."
-
-
-Note_6_7:"Подключи сим. резо-\nнатор к генератору защ. поля... и беги!"
-NoteOrder_6_7:"609"
-//Note_6_7:"Attach the Sympathetic Resonator to the Shield Generator... and run!"
-
-
-Note_6_9:"Уничтожь челноки \nна этой палубе."
-NoteOrder_6_9:"610"
-//Note_6_9:"Destroy the shuttles on this deck."
-
-
-Note_6_14:"Отправляйся на \"Рикенбакер\" через стыковочный узел на центральной станции поезда."
-NoteOrder_6_14:"611"
-//Note_6_14:"Go to the Rickenbacker via the central tram station."
-
-
-Note_7_4:"Уничтожь все яйца."
-NoteOrder_7_4:"701"
-//Note_7_4:"Destroy all the eggs."
-
-
-Note_7_8:"Карта доступа к Гондоле B - за проломом в корпусе."
-NoteOrder_7_8:"702"
-//Note_7_8:"The access card for Nacelle B is beyond the hull breach."
-
-
-Note_7_2:"Иди в гондолу B двигателя."
-NoteOrder_7_2:"703"
-//Note_7_2:"Go to Engine Nacelle B."
-
-
-Note_7_6:"Реверсируй гравитр. генераторы, чтобы пройти в отсек 2."
-NoteOrder_7_6:"704"
-//Note_7_6:"Reverse the Gravitronic Generators in order to safely access Pod 2."
-
-
-Note_7_3:"Отправляйся в отсек 2."
-NoteOrder_7_3:"705"
-//Note_7_3:"Proceed to Pod 2."
-
-
-Note_7_1:"Встреться с капитаном Диего в лазарете."
-NoteOrder_7_1:"706"
-//Note_7_1:"Meet Captain Diego in the sick bay."
-
-
-Note_7_9:"Диего спрятал в своей каюте что-то важное."
-NoteOrder_7_9:"707"
-//Note_7_9:"Diego hid something useful in his quarters."
-
-
-Note_7_7:"Используй спасат. шлюпку на мостике, чтобы атаковать Множество."
-NoteOrder_7_7:"708"
-//Note_7_7:"Use the escape pod on the bridge to attack the Many."
-
-
-Note_8_1:"Двери-сфинктеры управляются нерв-\nными узлами."
-NoteOrder_8_1:"801"
-//Note_8_1:"The sphincter doors are controlled by the nerve clusters."
-
-
-Note_8_2:"У Множества есть центральная нервная система... найди и уничтожь ее!"
-NoteOrder_8_2:"802"
-//Note_8_2:"The Many has a centralized nervous system... find and destroy it!"
-
-
-Note_9_1:"Останови SHODAN... как угодно..."
-NoteOrder_9_1:"901"
-//Note_9_1:"Stop SHODAN... somehow..."
-
-
-////////////////////////////////////////////////////////////////////////////////
-//  Strings for SCP mod                                                             
-////////////////////////////////////////////////////////////////////////////////
-
-
-Note_2_4:"Код для Крио-А: 45100."
-NoteOrder_2_4:"203"
-//"The code for Cryo A is 45100."
-
-
-Note_5_9:"Код для передатчика: 14106."
-NoteOrder_5_9:"502"
-//"The code for the Transmitter is 14106."
+Note_5_6:"Код доступа к слу-\nжебному туннелю сада: 34093."
+NoteOrder_5_6:"506"
+//Note_5_6:"The code for the Garden maintenance tunnel is 34093."
 
 
 Note_5_10:"Найден код арт-терминала: [1"
@@ -413,6 +287,125 @@ NoteOrder_5_25:"525"
 //"Found art code: 6]"
 
 
+Note_5_2:"Возвращайся на палубу управления."
+NoteOrder_5_2:"507"
+//Note_5_2:"Return to the Ops Deck."
+
+
+Note_5_3:"Отправляйся на командную палубу."
+NoteOrder_5_3:"508"
+//Note_5_3:"Go to the Command Deck."
+
+
+Note_6_1:"Найди карту дос-\nтупа к коррекции управления."
+NoteOrder_6_1:"601"
+//Note_6_1:"Find the Ops Override access card."
+
+
+Note_6_3:"Иди в командный центр на палубе управления."
+NoteOrder_6_3:"602"
+//Note_6_3:"Go to the Command Center on the Ops Deck."
+
+
+Note_6_5:"Встреться с д-ром Делакруа в груз. отсеке А."
+NoteOrder_6_5:"603"
+//Note_6_5:"Meet Dr. Delacroix in cargo bay A."
+
+
+Note_6_11:"Код доступа в пункт охраны: 83273."
+NoteOrder_6_11:"604"
+//Note_6_11:"The code for the Security Station is 83273."
+
+
+Note_6_10:"Карта доступа к че-\nлнокам -в пункте СБ в каютах офицеров."
+NoteOrder_6_10:"605"
+//Note_6_10:"The Shuttle card is in the Security Station in the Officers' Quarters."
+
+
+Note_6_12:"Отключи защ. поле вокруг челноков из рубки управления."
+NoteOrder_6_12:"606"
+//Note_6_12:"Deactivate the shields around the shuttles from the Control Chamber."
+
+
+Note_6_13:"После отключения защитного поля уничтожь челноки."
+NoteOrder_6_13:"607"
+//Note_6_13:"Once the shields are down, destroy the shuttles."
+
+
+Note_6_6:"Чтобы получить сим. резонатор, взломай репликатор в рубке."
+NoteOrder_6_6:"608"
+//Note_6_6:"Hack the shuttle control rep. to get a Sympathetic Resonator."
+
+
+Note_6_7:"Подключи сим. резо-\nнатор к генератору защ. поля... и беги!"
+NoteOrder_6_7:"609"
+//Note_6_7:"Attach the Sympathetic Resonator to the Shield Generator... and run!"
+
+
+Note_6_9:"Уничтожь челноки \nна этой палубе."
+NoteOrder_6_9:"610"
+//Note_6_9:"Destroy the shuttles on this deck."
+
+
+Note_6_14:"Отправляйся на \"Рикенбакер\" через стыковочный узел на центральной станции поезда."
+NoteOrder_6_14:"611"
+//Note_6_14:"Go to the Rickenbacker via the central tram station."
+
 Note_6_15:"Разберитесь с Коренчкиным на мосту."
 NoteOrder_6_15:"612"
 //Note_6_15:"Deal with Korenchkin on the bridge."
+
+
+Note_7_4:"Уничтожь все яйца."
+NoteOrder_7_4:"701"
+//Note_7_4:"Destroy all the eggs."
+
+
+Note_7_8:"Карта доступа к Гондоле B - за проломом в корпусе."
+NoteOrder_7_8:"702"
+//Note_7_8:"The access card for Nacelle B is beyond the hull breach."
+
+
+Note_7_2:"Иди в гондолу B двигателя."
+NoteOrder_7_2:"703"
+//Note_7_2:"Go to Engine Nacelle B."
+
+
+Note_7_6:"Реверсируй гравитр. генераторы, чтобы пройти в отсек 2."
+NoteOrder_7_6:"704"
+//Note_7_6:"Reverse the Gravitronic Generators in order to safely access Pod 2."
+
+
+Note_7_3:"Отправляйся в отсек 2."
+NoteOrder_7_3:"705"
+//Note_7_3:"Proceed to Pod 2."
+
+
+Note_7_1:"Встреться с капитаном Диего в лазарете."
+NoteOrder_7_1:"706"
+//Note_7_1:"Meet Captain Diego in the sick bay."
+
+
+Note_7_9:"Диего спрятал в своей каюте что-то важное."
+NoteOrder_7_9:"707"
+//Note_7_9:"Diego hid something useful in his quarters."
+
+
+Note_7_7:"Используй спасат. шлюпку на мостике, чтобы атаковать Множество."
+NoteOrder_7_7:"708"
+//Note_7_7:"Use the escape pod on the bridge to attack the Many."
+
+
+Note_8_1:"Двери-сфинктеры управляются нерв-\nными узлами."
+NoteOrder_8_1:"801"
+//Note_8_1:"The sphincter doors are controlled by the nerve clusters."
+
+
+Note_8_2:"У Множества есть центральная нервная система... найди и уничтожь ее!"
+NoteOrder_8_2:"802"
+//Note_8_2:"The Many has a centralized nervous system... find and destroy it!"
+
+
+Note_9_1:"Останови ШОДАН... как угодно..."
+NoteOrder_9_1:"901"
+//Note_9_1:"Stop SHODAN... somehow..."

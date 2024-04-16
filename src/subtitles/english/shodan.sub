@@ -2,7 +2,7 @@ SUB1
 
 {
 	type "bark"
-	descr "SHODAN"
+	descr "ШОДАН"
 	sub sh1at310 { text "Я чую гниль человечества." }
 	sub sh1at311 { text "Ты здесь, насекомое??" }
 	sub sh1at312 { text "Я достаточно долго тебя терпела." }

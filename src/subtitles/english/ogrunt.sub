@@ -61,7 +61,7 @@ SUB1
 	sub og1to1_3 { text "Наши глаза открыты. " }
 	sub og1to1_4 { text "Мы присоединились?" }
 	sub og1to1_5 { text "Гармония... нарушается." }
-	sub og1to2_1 { text "Множество говорит через нас. Speak of the Many to us." }
+	sub og1to2_1 { text "Множество говорит через нас." }
 	sub og1to2_2 { text "Не часть гармонии." }
 	sub og1to2_3 { text "Наша плоть ищет тебя." }
 	sub og1to2_4 { text "Ты один из нас?" }

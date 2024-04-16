@@ -7,6 +7,12 @@ ArchComputer:"Это просто дурацкая временная замена текста.  Для этого компьютера
 ArchSecurityComp:"Взломай и временно отключи с-му охраны."
 //"Hack to temporarily disable security."
 
+CameraHackMod:"Взломайте, чтобы навсегда отключить эту камеру."
+//"Hack to permanently disable this camera."
+
+CrewComp1:"Взломайте, чтобы открыть секретный шкаф."
+//CrewComp1:"Hack to open security closet."
+
 KeypadHack:"Взломай панель, чтобы открыть дверь."
 //"Hack keypad to open door."
 
@@ -18,13 +24,6 @@ TurretHack:"Взломав, заставишь турель стрелять по твоим врагам."
 
 Shield_Interlock:"Взломав все 3 блок. замка, отключишь защ. поля."
 //"Hack all three Interlocks to disable shields."
-
-////////////////////////////////////////////////////////////////////////////////
-//  Strings for SCP mod                                                             
-////////////////////////////////////////////////////////////////////////////////
-
-CameraHackMod:"Взломайте, чтобы навсегда отключить эту камеру."
-//"Hack to permanently disable this camera."
 
 GamePigHack:"Взлом вашей ИгроСвин (TM) приведет к аннулированию гарантии."
 //"Hacking your GamePig(TM) will void the warranty."

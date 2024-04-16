@@ -121,6 +121,9 @@ HelpWrench:"Перетащи на поврежденное оружие или турель, чтобы улучшить состояние
 HilightString:"%s пунктов из %s."
 //"%s pointed out by %s."
 
+HPMaxed:"Здоровье уже на пределе."
+//"Hit points already at full."
+
 Level0:"Инженерия"
 //"Engineering"
 
@@ -168,15 +171,6 @@ LoadEnd:"Игра загружена!"
 
 LoadStart:"Загрузка игры..."
 //"Loading game..."
-
-MaxedOut:"МАКС"
-//"MAX"
-
-MedBedUse:"5 нанитов использовано на лечение."
-//"5 nanites used in healing."
-
-ModLevel:"  Уровень модиф. %d"
-//"Modification level %d"
 
 NeedNanites:"Недостаточно нанитов."
 //"Insufficient nanites."
@@ -229,6 +223,9 @@ ResMachine0:"Образец принят.  Квантовая машина биореконструкции активирована."
 ResMachine1:"Лишний образец.  Квантовая машина биореконструкции уже активирована."
 //"Redundant sample.  Quantum Bio-Reconstruction Machine already active."
 
+ResearchSus:"%s исследования приостановлено."
+//"%s research suspended."
+
 SaveEnd:"Игра сохранена!"
 //"Game saved!"
 
@@ -273,6 +270,9 @@ StatName4:"КИБ"
 
 StatReq:"Требуется %s %d."
 //StatReq:"Item requires %s of %d."
+
+SCPMidgame0:"Обнаружена активация SCP в середине игры.\nНе поддерживается.\nВам необходимо начать новую игру."
+//"Mid-game activation of SCP\ndetected. Not supported. You\nmust start a new game."
 
 TechCursor0: "Взлом"
 //"Hack"
@@ -328,6 +328,9 @@ TurretState1:"Система охраны отключена...\n\nСенсоры не работают."
 TurretState2:"Система охраны активирована...\n\nЗапущен алгоритм атаки."
 //"Security system active...\n\nAttack algorithm running."
 
+TraitAdded:"%s обновления ОС установленно."
+//"%s OS upgrade installed."
+
 UseTechTool:"<ДОСТУП ЗАКРЫТ>"
 //"<ACCESS DENIED>"
 
@@ -361,6 +364,18 @@ WrenchSkillReq:"Техобслуживание этого оружия требует навыка %d."
 WrenchUnused:"Оружие и так в хорошем состоянии."
 //"Weapon already in good condition."
 
+WormBeakerPile:"Для сбора червей можно использовать только пустые мензурки."
+//"Only empty beakers can be used to collect worms."
+
+WrenchSkillReqTur:"Для обслуживания этой башни требуется навык %d."
+//"Maintaining this turret requires a skill of %d."
+
+WrenchUnusedTur:"Турель уже в хорошем состоянии."
+//"Turret already in good condition."
+
+WrenchUnresearched:"Нельзя обслуживать неизученное оружие."
+//"Cannot maintain unresearched weapon."
+
 ChemUsed:"Химикат, используемый при исследовании."
 //"Chemical used in research."
 
@@ -390,6 +405,21 @@ InvFull:"В рюкзаке нет места."
 
 LogPickup:"Запись %s добавлена в PDA."
 //"Log %s added to PDA."
+
+MaxedOut:"МАКС"
+//"MAX"
+
+MedBedUnused:"Пациент уже в хорошем состоянии."
+//"Patient already in good condition."
+
+MedBedUse:"5 нанитов использовано на лечение."
+//"5 nanites used in healing."
+
+MFDGameCart:"Установлен игровой картридж MFD."
+//"MFD game cartridge installed."
+
+ModLevel:"  Уровень модиф. %d"
+//"Modification level %d"
 
 MouseHelpAmm:"Щелкни здесь для переключения типа боеприпасов."
 //"Click here to cycle to next ammo type."
@@ -441,6 +471,9 @@ NoNoPsi:"Недостаточно пси-силы для активации."
 
 QuickSaveName:"Автосохранение"
 //"Auto-save"
+
+QuickSaveSlotName:"Быстрое сохранение"
+//"Quicksave"
 
 RepFail:"Недостаточно нанитов для репликации."
 //"Insufficient nanites to replicate."
@@ -534,31 +567,3 @@ Access16:"РИКЕНБАКЕР"
 
 Access17:"КАЮТА ДИЕГО"
 //"DIEGO'S QUARTERS"
-
-////////////////////////////////////////////////////////////////////////////////
-//  Strings for SCP mod                                                             
-////////////////////////////////////////////////////////////////////////////////
-
-HPMaxed:"Здоровье уже на пределе."
-//"Hit points already at full."
-
-QuickSaveSlotName:"Быстрое сохранение"
-//"Quicksave"
-
-ResearchSus:"%s исследования приостановлено."
-//"%s research suspended."
-
-SCPMidgame0:"Обнаружена активация SCP в середине игры.\nНе поддерживается.\nВам необходимо начать новую игру."
-//"Mid-game activation of SCP\ndetected. Not supported. You\nmust start a new game."
-
-TraitAdded:"%s обновления ОС установленно."
-//"%s OS upgrade installed."
-
-WormBeakerPile:"Для сбора червей можно использовать только пустые мензурки."
-//"Only empty beakers can be used to collect worms."
-
-WrenchSkillReqTur:"Для обслуживания этой башни требуется навык %d."
-//"Maintaining this turret requires a skill of %d."
-
-WrenchUnusedTur:"Турель уже в хорошем состоянии."
-//"Turret already in good condition."

@@ -22,8 +22,11 @@ HackCrate:"¬зломай и открой кон-\nтейнер.  ритическа€ ошибка уничтожит его."
 TurretHack:"¬зломав, заставишь турель стрел€ть по твоим врагам."
 //"Hack to make turret shoot your foes."
 
-Shield_Interlock:"¬зломав все 3 блок. замка, отключишь защ. пол€."
+Shield_Interlock:"¬зломайте все три блокировки, чтобы отключить щиты."
 //"Hack all three Interlocks to disable shields."
+
+Shield_Interlock_SCP:"¬зломайте, чтобы уменьшить силу щита на треть."
+//"Hack to reduce shield strength by one third."
 
 GamePigHack:"¬злом вашей »гро—вин (TM) приведет к аннулированию гарантии."
 //"Hacking your GamePig(TM) will void the warranty."

@@ -28,6 +28,15 @@ Armor2:"+%.0f РАД"
 Armor3:"+%.0f ТОКС"
 //"+%.0f TOX"
 
+BatteryCant:"Предмет не может быть заряжен."
+//"Item cannot be charged."
+
+BatteryCharge:"Предмет заряжен."
+//"Item charged."
+
+BatteryMax:"Предмет уже полностью заряжен."
+//"Item already fully charged."
+
 CantReload:"Нет боеприпасов для перезарядки."
 //"Out of ammo for reload."
 
@@ -90,6 +99,9 @@ FreeModify:"Оружие модернизировано!"
 
 FreeRepair:"Предмет отремонтирован!"
 //"Device repaired!"
+
+FreeRepairCant:"Предмет ремонту не подлежит."
+//"Item cannot be repaired."
 
 GetEmail:"Получено сообщение."
 //"Incoming email transmission."
@@ -195,6 +207,18 @@ PsiMaxed:"Пси-сила уже максимальна."
 
 ReceiveString:"%s получено от %s."
 //"%s received from %s."
+
+RecyclerCant:"Предмет не подлежит вторичной переработке."
+//"Item cannot be recycled."
+
+RecyclerEquip:"Предмет не подлежит вторичной переработке в снаряженном виде."
+//"Item cannot be recycled while equipped."
+
+RecyclerSuccess:"%s переработано в %d нанитов."
+//"%s recycled into %d nanites."
+
+RecyclerSuccess1:"%s переработано в 1 нанит."
+//"%s recycled into 1 nanite."
 
 Reload:"ЗАРЯДИТЬ"
 //"RELOAD"
@@ -417,6 +441,9 @@ MedBedUse:"5 нанитов использовано на лечение."
 
 MFDGameCart:"Установлен игровой картридж."
 //"MFD game cartridge installed."
+
+MFDGameCartEx:"%s установлено."
+//"%s installed."
 
 ModLevel:"  Уровень модиф. %d"
 //"Modification level %d"

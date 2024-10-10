@@ -330,10 +330,11 @@ Amount Healed: 5 hit points + 5 hit points per PSI"
 
 Psi34:"Вампиризм
 
-Вытягивает здоровье из не-механических существ и добавляет его тебе."
+Вытягивает здоровье из не-механических существ и добавляет его тебе.
+Количество: до 10 очков жизни + 5 за каждый ПСИ свыше 5."
 
 //"Soma Transference
-Drains target non-robotic creature of hit points, and adds those hit points to your total."
+Drains target non-robotic creature of hit points and adds them to your own. Amount drained: Up to 10 hit points + 5 per PSI over 5."
 
 
 Psi35:"Телепорт

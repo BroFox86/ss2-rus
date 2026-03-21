@@ -1,20 +1,20 @@
-aarocket:""
-//""
+AARocket:"Черви"
+//"Worms"
 
 AAT:"Колба с Токсином-A"
 //"Vial of Toxin-A"
 
-aaviral:""
-//""
+AAViral:"Вирус"
+//"Virus"
 
 Abyss_Cart:"Свинтус"
 //"Hog Wallow"
 
-ahrocket:""
-//""
+AHRocket:"Черви"
+//"Worms"
 
-ahviral:""
-//""
+AHViral:"Вирус"
+//"Virus"
 
 Annelid_Medpatch:"Леч. железа аннелида"
 //"Annelid healing gland"
@@ -73,8 +73,11 @@ BigEMPShot:"ЭМИ"
 BigFusionShot:"Атомные"
 //"Fusion"
 
-biglasershot:""
-//""
+BigLaserShot:"Лазер"
+//"Laser"
+
+BigStasisShot:"Стазис"
+//"Stasis"
 
 BIncendGrenade:"Зажигат."
 //"Incend."
@@ -421,7 +424,8 @@ Laser_Turret:"Порт доступа турели"
 Laser_Turret_Corpse:"Уничтоженная турель"
 //"Destroyed turret"
 
-lasershot:""  //""
+LaserShot:"Лазер"
+//"Laser"
 
 Light_Armor:"Легкая боевая броня"
 //"Light combat armor"
@@ -720,8 +724,8 @@ Star_Nacelle_Comp:"Компьютер правой гондолы"
 Stasis_Field_Generator:"Генератор стат. поля"
 //"Stasis Field Generator"
 
-stasisshot:""
-//""
+StasisShot:"Стазис"
+//"Stasis"
 
 Strength_Boost:"Увеличитель Силы"
 //"Strength booster"
@@ -731,6 +735,9 @@ Sven_Card:"Карта доступа к стим. блоку: Свен"
 
 Swarm_Organ:"Орган кокона роя"
 //"Swarm pod organ"
+
+Swarmer:"Рой аннелидов"
+//"Annelid swarm"
 
 SwiftBoost:"Импл. СверхЛовкость(tm)"
 //"SwiftBoost(tm) implant"

@@ -183,6 +183,15 @@ SCPCircuitOn:"Цепь активирована."
 SCPCircuitOff:"Киберпространственный терминал отключен."
 //"Cyberspace terminal disabled."
 
+SCPEnlistOSA:"Вступите в OSA, чтобы сосредоточиться на пси-способностях. Не рекомендуется неопытным игрокам."
+//"Enlist in the OSA to focus on psionic skills.\nNot recommended for inexperienced players."
+
+SCPEnlistNavy:"Вступите во флот, чтобы сосредоточиться на технических навыках"
+//"Enlist in the Navy to focus on technical skills."
+
+SCPEnlistMarines:"Вступите в морскую пехоту, чтобы сосредоточиться на владении оружием."
+//"Enlist in the Marines to focus on weapon skills."
+
 SCPExpert:"Экспертная техника"
 //"An expert techninja"
 
@@ -239,6 +248,12 @@ tech1:"Кибер-устройство апгрейда технических навыков"
 
 TrainingLog:"Нажми клавишу \"U\", чтобы воспроизвести только что подобранную запись."
 //"Press the \"U\" key to play the log you just picked up."
+
+TrainingModeEE:"Нажмите $bind:toggle_mouse , чтобы переключить режимы."
+//"Press $bind:toggle_mouse to switch modes."
+
+TrainingWrench:"Нажмите the \"1\" клавишу, чтобы экипировать разводной ключ."
+//"Press the \"1\" key to equip the wrench."
 
 Trap:"Местное питание восстановлено."
 //"Local power restored."

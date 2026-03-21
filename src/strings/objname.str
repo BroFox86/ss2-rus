@@ -622,6 +622,9 @@ Grate:"Решетка"
 Grav_Button:"Управление гравитронным генератором"
 //"Gravitronic Generator Control"
 
+GravshaftPad:"Плита гравишахты"
+//"A gravshaft gravplate"
+
 Gren_Launcher:"Гранатомет TC-11. (%s)"
 //"A TC-11 Grenade Launcher. (%s)"
 
@@ -1248,6 +1251,9 @@ Science_Table:"Стол"
 
 Science_Table:"Стол"
 //"A table"
+
+Science_Tube:"Герметичная трубка"
+//"A sealed tube"
 
 screens:"Сенсорный экран"
 //"A touch screen"

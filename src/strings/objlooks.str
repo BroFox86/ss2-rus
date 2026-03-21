@@ -690,6 +690,11 @@ timed_grenade:"Обычная осколочная граната.  Урон наносится совокупностью ударной
 
 
 
+ToughSkin:"Имплант КрепкаяКожа (ТМ) увеличивает максимальный запас здоровья носителя на 15 единиц, теряя 1% заряда каждые десять секунд."
+//"The ToughSkin(TM) implant increases the user's maximum hit points by 15, burning up 1% of its charge every ten seconds."
+
+
+
 toxin_grenade:"Разрыв-граната является единственным полезным изобретением компании \"Flegel-Kraft\", военного подрядчика UNN.  Среди множества эксцентричных, технически сложных единиц вооружения вроде Сернокислого Блина или Магниевого Автомата (ни одно из которых не прошло полевых испытаний), \"Flegel-Kraft\" представила и это маленькое, но смертоносное взрывное устройство.  Радиус взрыва у него гораздо меньший, чем у зажигательных или осколочных гранат, но практически ничто не может уцелеть в центре этого взрыва."
 
 //"The Disruption Grenade is the only profitable product of the UNN military contractor Flegel-Kraft.  Amongst a host of eccentric, technically complex weapons, including the Sulfuric Putty Pancake and the Magnesium Tommygun (neither of which proved themselves in the field) Flegel-Kraft introduced this small, but deadly, explosive.  Its explosive radius is much smaller than that of an Incendiary or Fragmentation Grenade, but almost nothing can withstand the center of the explosion."

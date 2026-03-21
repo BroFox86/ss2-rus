@@ -43,8 +43,8 @@ Trait13:"Эксперт по репликаторам: взломать репликаторы на 20% проще. Все товары 
 Trait14:"Пси-сила: псионическое горание больше не наносит вам вреда и не требует пси-очков."
 //"Power Psi: Psionic burnout no longer damages you and costs no psi points."
 
-Trait15:"Ремесленник: эффект большинства модификаций оружия улучшен на 20%. Стоимость нанитов для модификаций оружия снижена на 50%."
-//"Tinker: Effect of most weapon modifications improved by 20%. Nanite cost for weapon mods reduced by 50%."
+Trait15:"Умелец: При модификации оружия эффективность повышается до 20%. Стоимость модификаций оружия в нанитах снижена на 50%."
+//"Tinker: When modifying a weapon, effects are improved by up to 20%. Nanite cost for weapon mods reduced by 50%."
 
 Trait16:"Следопыт: автоматическая карта отображает расположение всех врагов и всегда полностью заполнена для каждого подуровня."
 //"Spatially Aware: Automap displays the position of all enemies and is always completely filled in for each sublevel."

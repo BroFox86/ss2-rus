@@ -223,13 +223,11 @@ Time Reduction: 5 seconds + 5 seconds per PSI"
 
 Psi10:"Выброс адреналина
 
-Умножает урон, наносимый в рукопашном бою, эквивалентно ПСИ.
+Увеличивает урон в ближнем бою на (13% ? ПСИ?). Перегрузка не увеличивает урон. 
 
-Длится: 10 сек за ПСИ"
+Длится: 10 секунд за ПСИ"
 
-//"Adrenaline Overproduction
-Increases hand-to-hand damage by a factor equal to PSI.
-Duration: 10 seconds per PSI"
+//Adrenaline Overproduction\n\nIncreases hand-to-hand damage by 13% times PSI squared. Overloading does not increase damage.\n\nDuration: 10 seconds per PSI
 
 
 Psi23:"Пси-гипноз
